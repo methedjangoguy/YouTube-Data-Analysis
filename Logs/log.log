@@ -1,0 +1,1535 @@
+2023-04-27 15:15:06,500 | INFO | root | Displaying Multiple Youtube Channel Information.
+
+2023-04-27 15:15:06,500 | INFO | root |           ChannelName Subscribers      Views Videos                PlaylistID                                        Description
+0             techTFQ      192000    9360776     87  UUnz-ZXXER4jOvuED5trXfEA  Hi, I am Thoufiq! On this channel, I teach SQL...
+1       Luke Barousse      338000   15452999    134  UULLw7jmFsvfIVaUFsLs8mlQ  What's up, Data Nerds! I'm Luke, a data analys...
+2           TechWiser     1360000  204642214    826  UUdp6GUwjKscp5ST4M4WgIpw  Founded in 2012, TechWiser helps people to sol...
+3  Akshat Shrivastava     1620000  157260071    626  UUqW8jxh4tH1Z1sWPbkGWL4g  Trying to put content that my 1-year old son- ...
+4    Alex The Analyst      453000   17813771    205  UU7cs8q-gJRlGwj4A8OmCmXg  My name is Alex Freberg and on this channel I ...
+5             Ken Jee      241000    7963879    273  UUiT9RITQ9PW6BhXK0y2jaeg  Hi, I'm Ken! Data Science, machine learning, A...
+6             warikoo     2840000  223214715    886  UURzYN32xtBf3Yxsx5BvJWJw  warikoo is a serial entrepreneur, a bestsellin...
+7          Tina Huang      520000   22226679    121  UU2UXDak6o7rBm23k3Vv5dww  Hi! My name is Tina and I'm a ex-Meta data sci...
+2023-04-27 15:15:07,549 | INFO | root | ------------------------
+2023-04-27 15:15:07,549 | INFO | root | 
+Displaying Video data for Channel: techTFQ
+
+2023-04-27 15:15:07,549 | INFO | root | ------------------------
+2023-04-27 15:15:07,556 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+0   Solving a Complex SQL Interview problem | Prac...    21-03-2023     20425       597           80
+1   REAL SQL Interview Problem | Hierarchical data...    14-03-2023     11023       499           47
+2     Complete guide to Database Normalization in SQL    07-03-2023     22939      1216          178
+3   SQL Live class on Lighthall | Learn SQL from B...    26-01-2023     10373       236          149
+4   How to learn SQL for free | Roadmap to learnin...    28-12-2022    232019      7908          316
+..                                                ...           ...       ...       ...          ...
+84  Learn What is Database | Types of Database | DBMS    30-08-2020    167447      3118          111
+85                           Do you need a Smartwatch    12-07-2020     11221       182           46
+86         MacBook Pro 13 2020  One Week Later Review    29-06-2020      1339        70           20
+87                       MacBook Pro 13 2020 Unboxing    22-06-2020      2379        88           29
+88                       MacBook Pro 13 2020 Unboxing    22-06-2020      2379        88           29
+
+[89 rows x 5 columns]
+
+2023-04-27 15:15:07,556 | INFO | root | 
+Displaying Top 10 video's data for Channel: techTFQ
+
+2023-04-27 15:15:07,560 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+66  Regular Expressions in Python | Regular Expres...    22-04-2021      9782       286           58
+60  Web Scraping in Python using Beautiful Soup | ...    05-07-2021     96870      3387          325
+29          Solving SQL Query | Rows to Column in SQL    18-05-2022     92387      2489          146
+16  Solving SQL Interview Query using a "VERY IMPO...    19-09-2022     86901      2121          165
+53  Connect to PostgreSQL from Python (Using SQL i...    13-09-2021     85548      2179          133
+65  How to Read and Write Files in Python | File H...    05-05-2021      8525       362           32
+14              How to become a Data Analyst FASTER ?    30-09-2022     84585      3573          180
+71  Exception Handling in Python | TRY EXCEPT in P...    04-03-2021      8417       224           11
+55  STEP by STEP guide to Learn Python | How to le...    29-08-2021      8365       435           45
+82  SQL Basics Tutorial for Beginners (Practice SQ...    11-12-2020    749174     16534          539
+2023-04-27 15:15:07,560 | INFO | root | ------------------------
+2023-04-27 15:15:07,565 | INFO | root | File Created for techTFQ
+2023-04-27 15:15:07,565 | INFO | root | ------------------------
+2023-04-27 15:15:08,939 | INFO | root | ------------------------
+2023-04-27 15:15:08,940 | INFO | root | 
+Displaying Video data for Channel: Luke Barousse
+
+2023-04-27 15:15:08,940 | INFO | root | ------------------------
+2023-04-27 15:15:08,947 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Google’s BI vs. Advanced Data Analytics Certif...    13-04-2023     77785      3765          198
+1      Freelance Jobs in Data Science ft.@ShashankData    27-03-2023      8070       630            5
+2                      Gain Experience WITHOUT a Job 🤯    24-03-2023     12393      1090           17
+3                How I find Projects as a Data Analyst    22-03-2023     16710      1404            8
+4                       How I Learn Faster with THIS 😴    20-03-2023      7213       564           14
+..                                                 ...           ...       ...       ...          ...
+132  Create Stacked Bar Chart (and any other visual...    11-09-2020      1934        75            8
+133  Dimensions Vs Measures  (Blue Vs Green Data) -...    09-09-2020      2777       119           10
+134  How To Use Tableau Desktop Controls - Tableau ...    01-09-2020      4005       151           10
+135  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20533       388           28
+136  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20533       388           28
+
+[137 rows x 5 columns]
+
+2023-04-27 15:15:08,948 | INFO | root | 
+Displaying Top 10 video's data for Channel: Luke Barousse
+
+2023-04-27 15:15:08,953 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+126  Upload your dashboard to Tableau Public  - Tab...    08-10-2020      9935       163           25
+12          Secrets of a Data Science Hiring Manager 🤫    01-03-2023      9906       696            7
+119  Python Objects frequently used in Data Science...    04-11-2020      9681       386           57
+57        How I use Machine Learning as a Data Analyst    30-08-2022     94655      3351          182
+72   M1 Max/Pro vs M1 Macbook for Data Science.... ...    07-12-2021     94423      2545          263
+88           Standout as a Data Analyst with THIS TOOL    08-05-2021     92049      3359          211
+98                   Day in the life of a data analyst    18-02-2021     91880      2685          383
+58                    How I use Math as a Data Analyst    10-06-2022     88100      4095          301
+10        Is a Data Science Degree really necessary? 🤔    06-03-2023      8809       514            6
+82   Get NOTICED in Data Science!!! (3 types of GRE...    17-08-2021     86240      4798          176
+2023-04-27 15:15:08,953 | INFO | root | ------------------------
+2023-04-27 15:15:08,954 | INFO | root | File Created for Luke Barousse
+2023-04-27 15:15:08,954 | INFO | root | ------------------------
+2023-04-27 15:15:17,598 | INFO | root | ------------------------
+2023-04-27 15:15:17,599 | INFO | root | 
+Displaying Video data for Channel: TechWiser
+
+2023-04-27 15:15:17,599 | INFO | root | ------------------------
+2023-04-27 15:15:17,607 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           We Tested Best Camera Phone *Vivo X90 Pro*    26-04-2023     37564      2619          210
+1                 How Jio Is Killing Netflix, Hotstar!    25-04-2023    155286     16055          836
+2           Every City Should have this Electric Bike!    22-04-2023    913806     65596          529
+3                 Best Smartphone under 25000 in India    21-04-2023    154020      8093          771
+4             5 Crazy Tech That We Saw in South Korea!    19-04-2023     57896      4737          207
+..                                                 ...           ...       ...       ...          ...
+816  Ubuntu 12.04 : Java applet not working with op...    21-06-2013      4109        10            0
+817  Bsnl broadband connection -Setup configure and...    19-06-2013    232112       738          129
+818  How to Install Compile and Run java programs i...    20-05-2013    104328       470           46
+819  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6677       153           45
+820  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6677       153           45
+
+[821 rows x 5 columns]
+
+2023-04-27 15:15:17,607 | INFO | root | 
+Displaying Top 10 video's data for Channel: TechWiser
+
+2023-04-27 15:15:17,613 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+276       OnePlus 10 Pro - Things No One Talked About!    08-04-2022     99716      4494          426
+646  Amazon Fire TV Stick 4k: Is it Worth the Upgrade?    21-11-2018     99602      1025          185
+150            3 Apps to make Windows more productive!    27-09-2022    992048    106553          455
+410  Oppo Enco Buds at Rs 1,499 | Flipkart Big Bill...    11-09-2021     99087      4356          363
+148              Best Upcoming Phones You Should Know!    30-09-2022     99061      7521          268
+243     This OnePlus Phone Could be Game Changer But..    28-05-2022     99028      7443          381
+299  iQOO 9 SE - Is This the Best Midrange Smartpho...    05-03-2022     98056      4727          390
+404        Should You Buy the iPhone 13?? -  SNL EP#38    18-09-2021      9779       637           18
+395  Best Deals  - Amazon Great Indian Festival and...    01-10-2021     97781      4203          355
+405  Xiaomi Mi TV 5X vs Realme Smart TV 4k - *Best ...    18-09-2021     97572      3607          313
+2023-04-27 15:15:17,613 | INFO | root | ------------------------
+2023-04-27 15:15:17,617 | INFO | root | File Created for TechWiser
+2023-04-27 15:15:17,617 | INFO | root | ------------------------
+2023-04-27 15:15:24,077 | INFO | root | ------------------------
+2023-04-27 15:15:24,077 | INFO | root | 
+Displaying Video data for Channel: Akshat Shrivastava
+
+2023-04-27 15:15:24,077 | INFO | root | ------------------------
+2023-04-27 15:15:24,083 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    The worst is yet to come | Fundamental Analysi...    21-04-2023    308194     10451          796
+1    Discussing my X crore portfolio, which beats M...    17-04-2023    204669      6433          546
+2    These stocks were Multibagger. But, now they a...    15-04-2023    329465     16992          693
+3    You frequently follow these finance rules, but...    13-04-2023    149414      6015          221
+4    A BEAUTIFUL house on India's BEST beach | How ...    11-04-2023    139564      3039          273
+..                                                 ...           ...       ...       ...          ...
+599                 GMAT | everything you need to know    08-01-2021    215796      8777          290
+600  Social Impact Career Paths | Dalberg, World Ba...    10-12-2020     28900      1306           63
+601                      Ace your communication style!    03-12-2020     32843      1615           55
+602  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+603  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+
+[604 rows x 5 columns]
+
+2023-04-27 15:15:24,083 | INFO | root | 
+Displaying Top 10 video's data for Channel: Akshat Shrivastava
+
+2023-04-27 15:15:24,088 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+393        GREAT buying opportunity in 2 SOLID stocks!    21-11-2021     99630      4887          363
+390               Should you buy, hold or sell stocks?    23-11-2021     99186      4686          732
+241  PayTm, Nykaa, Zomato in NIFTY Next 50! Buy now...    17-03-2022     99061      3043           63
+539  MBA: USA or Europe? | Brand Value | Cost & Sch...    24-06-2021     98964      4340          799
+501               My next 3 FINANCIALLY DUMB decisions    31-07-2021     98816      4887          650
+487  Is Crypto worth anything? #NFT #SMARTCONTRACT ...    16-08-2021     95685      3271          935
+363     LIVE DISCUSSION: Market and Fall - What to do?    17-12-2021     95519      3595          247
+483  Easiest Strategy to Invest in India | Mutual F...    20-08-2021     94126      3956          432
+250                      Job market crash 2022 #shorts    11-03-2022     93957      2777           38
+295          Markets falling (RBI's Monetary Policy) ?    11-02-2022     93479      5356          217
+2023-04-27 15:15:24,088 | INFO | root | ------------------------
+2023-04-27 15:15:24,091 | INFO | root | File Created for Akshat Shrivastava
+2023-04-27 15:15:24,092 | INFO | root | ------------------------
+2023-04-27 15:15:26,943 | INFO | root | ------------------------
+2023-04-27 15:15:26,944 | INFO | root | 
+Displaying Video data for Channel: Alex The Analyst
+
+2023-04-27 15:15:26,944 | INFO | root | ------------------------
+2023-04-27 15:15:26,953 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Data Analyst Q/A Livestream | April Livestream...    26-04-2023         0        15            0
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9361       391           20
+2        7 Ways to Use ChatGPT for Analytics | Webinar    18-04-2023     16959       676           22
+3    Google Business Intelligence Professional Cert...    18-04-2023     17183       574           53
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90086      2707          297
+..                                                 ...           ...       ...       ...          ...
+206  Working at a Big Company Vs Small Company | To...    25-01-2020     13468       372           20
+207      Data Analyst Salary | 100k with No Experience    23-01-2020     57764      2029          224
+208  Truth About Big Companies | Told by a Fortune ...    21-01-2020      7205       276           17
+209                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+210                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+
+[211 rows x 5 columns]
+
+2023-04-27 15:15:26,953 | INFO | root | 
+Displaying Top 10 video's data for Channel: Alex The Analyst
+
+2023-04-27 15:15:26,959 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+9    Filtering Columns and Rows in Pandas | Python ...    07-03-2023      9978       252           26
+90       Truth About My Job (Song) - As a Data Analyst    08-11-2021      9609       845          103
+160          Top 10 Coursera Courses for Data Analysts    13-10-2020     95984      4395          274
+185  SQL Interview Questions and Answers for Beginn...    13-05-2020     95002      2605           97
+139  Solving Medium Level SQL LeetCode Questions | ...    22-12-2020      9400       215           30
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9361       391           20
+26          Functions in Python | Python for Beginners    06-12-2022      9058       318           19
+131  IBM Data Analyst Professional Certificate by C...    26-01-2021     90185      2550          286
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90086      2707          297
+28          For Loops in Python | Python for Beginners    22-11-2022      8915       293           15
+2023-04-27 15:15:26,959 | INFO | root | ------------------------
+2023-04-27 15:15:26,961 | INFO | root | File Created for Alex The Analyst
+2023-04-27 15:15:26,961 | INFO | root | ------------------------
+2023-04-27 15:15:30,077 | INFO | root | ------------------------
+2023-04-27 15:15:30,077 | INFO | root | 
+Displaying Video data for Channel: Ken Jee
+
+2023-04-27 15:15:30,077 | INFO | root | ------------------------
+2023-04-27 15:15:30,085 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           This AI question will determine our future    06-04-2023      3403       236           32
+1      I'll Never Code the Same Again... (GPT-4 is OP)    03-04-2023     67713       733           77
+2    Your current portfolio is actually hurting you...    30-03-2023      3235       186            2
+3    Traditional "networking" is stupid. Do THIS in...    27-03-2023      3625       217            3
+4                  you're job searching wrong. #shorts    23-03-2023      2837       167            3
+..                                                 ...           ...       ...       ...          ...
+274          Should You Get A Masters in Data Science?    14-11-2018     20403       304          141
+275  How I Became A Data Scientist From a Business ...    12-11-2018      6339       197           23
+276  Predicting Season Long NBA Wins Using Multiple...    10-07-2018      8465       192           17
+277  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18619       292           41
+278  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18619       292           41
+
+[279 rows x 5 columns]
+
+2023-04-27 15:15:30,086 | INFO | root | 
+Displaying Top 10 video's data for Channel: Ken Jee
+
+2023-04-27 15:15:30,091 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+229  Golf: Would You Rather Be the LONGEST or STRAI...    25-11-2019       993        49           12
+37      Data Science Town Hall - State of Data Science    04-08-2022      9896       377           38
+73           Is Spotify Shuffle Really Random? #Shorts    21-07-2021      9881       560           50
+70   Project Presentation - Expectations vs. Realit...    07-08-2021      9845       422           32
+75            Why are APIs Important for Data Science?    09-07-2021      9339       442           95
+119                  Sh*t Data Scientists Say (Parody)    05-10-2020      9327       573          143
+212                         How I Learned Data Science    27-01-2020     93150      2664          210
+100  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+101  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+47       What Professional Data Scientists ACTUALLY Do    14-02-2022     90028      3145          185
+2023-04-27 15:15:30,091 | INFO | root | ------------------------
+2023-04-27 15:15:30,093 | INFO | root | File Created for Ken Jee
+2023-04-27 15:15:30,094 | INFO | root | ------------------------
+2023-04-27 15:15:39,618 | INFO | root | ------------------------
+2023-04-27 15:15:39,619 | INFO | root | 
+Displaying Video data for Channel: warikoo
+
+2023-04-27 15:15:39,619 | INFO | root | ------------------------
+2023-04-27 15:15:39,627 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    5 THINGS to do in AUSTRALIA! | Ankur Warikoo #...    27-04-2023      4409       628           12
+1    7 Powerful LIFE LESSONS That'll BLOW Your Mind...    25-04-2023     63324      4417          203
+2    3 SIGNS YOU ARE EMOTIONALLY INTELLIGENT! | Ank...    25-04-2023     45471      4059           52
+3    Watch NOW or REGRET LATER! | 7 LESSONS People ...    22-04-2023    182820     11424          470
+4    3 SIGNS a person TRUSTS YOU! | Ankur Warikoo #...    22-04-2023     38453      3622           47
+..                                                 ...           ...       ...       ...          ...
+900  What is success? | Ankur Warikoo motivation | ...    05-10-2017     11312       477           21
+901  Choosing the right company for job! | Ankur Wa...    05-10-2017     14375       514           14
+902  Is the power of imagination causing you harm? ...    07-09-2017     24551      1039           36
+903  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49386      1926          143
+904  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49386      1926          143
+
+[905 rows x 5 columns]
+
+2023-04-27 15:15:39,627 | INFO | root | 
+Displaying Top 10 video's data for Channel: warikoo
+
+2023-04-27 15:15:39,633 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+64   STUDENTS - Use CHATGPT to WIN in your CAREER! ...    11-02-2023    999326     28962         1055
+153  Do you INVEST? You SHOULD know THIS! | Ankur W...    08-11-2022     99646      7053           33
+579  THE BIGGEST Investing mistake you must avoid |...    15-12-2020     99607      5421          354
+776  Who values you the most? | #warikooWednesdays ...    09-10-2019       994        85            4
+361  Ask Me Anything! | YouTube LIVE with Ankur War...    20-01-2022     99261      4602          299
+401  7 TOP Careers for Success in your 20s | Job Ti...    23-12-2021    992487     44843         1420
+518  Truths behind becoming a SUCCESSFUL Entreprene...    06-05-2021     98987      6113          526
+384  Yeh Buy-Now-Pay-Later Kya Hai? W/ Nitin Gupta ...    04-01-2022     98979      3790          257
+374  Psychology of Money Book Review | Ankur Wariko...    11-01-2022    988072     48289         1742
+803  Why? | Friday Nights With Warikoo Episode 12 |...    21-06-2019       987        40            2
+2023-04-27 15:15:39,633 | INFO | root | ------------------------
+2023-04-27 15:15:39,638 | INFO | root | File Created for warikoo
+2023-04-27 15:15:39,638 | INFO | root | ------------------------
+2023-04-27 15:15:41,242 | INFO | root | ------------------------
+2023-04-27 15:15:41,242 | INFO | root | 
+Displaying Video data for Channel: Tina Huang
+
+2023-04-27 15:15:41,242 | INFO | root | ------------------------
+2023-04-27 15:15:41,250 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0                         Will AI Replace Programmers?    01-04-2023    133822      6817         1364
+1                Open Letter to Pause AI Development 👀    29-03-2023     14452       742           98
+2    My favourite thing about being a data scientis...    12-03-2023     18063      1453           28
+3    How to learn to code FAST using ChatGPT (it's ...    02-03-2023   1095887     43309         1233
+4    How Your Environment Can Improve (Or Destroy) ...    13-02-2023     40275      2525           91
+..                                                 ...           ...       ...       ...          ...
+119  How I Became a Data Scientist | Computer Scien...    02-08-2020     15491       442           41
+120  How I got Software Engineering and Data Scienc...    28-07-2020     30032       997           69
+121  How to choose between software engineering and...    22-07-2020    372834     17007          658
+122                           My UPenn MCIT Experience    17-07-2020     21847       354           74
+123                           My UPenn MCIT Experience    17-07-2020     21847       354           74
+
+[124 rows x 5 columns]
+
+2023-04-27 15:15:41,250 | INFO | root | 
+Displaying Top 10 video's data for Channel: Tina Huang
+
+2023-04-27 15:15:41,256 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+56          Good coding habits to start developing NOW    27-08-2021     98743      4647          177
+23              How to Take Notes for Technical Things    17-05-2022     97222      4990          111
+97   Data Science SQL Interview Question Walkthroug...    28-10-2020      9584       252           50
+30                        How To Learn Anything Faster    27-03-2022     90764      5619          237
+90   Do you have what it takes to be a great data s...    20-12-2020      9029       441           56
+108  A day in the life of a data scientist (FAANG d...    19-09-2020     90104      2682          205
+12   How to Get Over Fear of Failure (and stop proc...    18-10-2022     87753      5426          208
+73   FAANG Data scientist reviews: Datacamp, Dataqu...    18-04-2021     83826      1883          127
+71                    The quant trader interview guide    01-05-2021     83052      1718           85
+51               What it’s like being a data scientist    18-10-2021     80592      3483          172
+2023-04-27 15:15:41,256 | INFO | root | ------------------------
+2023-04-27 15:15:41,257 | INFO | root | File Created for Tina Huang
+2023-04-27 15:15:41,257 | INFO | root | ------------------------
+2023-04-27 15:17:15,347 | INFO | root | Displaying Multiple Youtube Channel Information.
+
+2023-04-27 15:17:15,348 | INFO | root |           ChannelName Subscribers      Views Videos                PlaylistID                                        Description
+0       Luke Barousse      338000   15452999    134  UULLw7jmFsvfIVaUFsLs8mlQ  What's up, Data Nerds! I'm Luke, a data analys...
+1             techTFQ      192000    9360776     87  UUnz-ZXXER4jOvuED5trXfEA  Hi, I am Thoufiq! On this channel, I teach SQL...
+2          Tina Huang      520000   22226679    121  UU2UXDak6o7rBm23k3Vv5dww  Hi! My name is Tina and I'm a ex-Meta data sci...
+3           TechWiser     1360000  204642214    826  UUdp6GUwjKscp5ST4M4WgIpw  Founded in 2012, TechWiser helps people to sol...
+4             warikoo     2840000  223214715    886  UURzYN32xtBf3Yxsx5BvJWJw  warikoo is a serial entrepreneur, a bestsellin...
+5  Akshat Shrivastava     1620000  157260071    626  UUqW8jxh4tH1Z1sWPbkGWL4g  Trying to put content that my 1-year old son- ...
+6    Alex The Analyst      453000   17813771    205  UU7cs8q-gJRlGwj4A8OmCmXg  My name is Alex Freberg and on this channel I ...
+7             Ken Jee      241000    7963879    273  UUiT9RITQ9PW6BhXK0y2jaeg  Hi, I'm Ken! Data Science, machine learning, A...
+2023-04-27 15:17:16,710 | INFO | root | ------------------------
+2023-04-27 15:17:16,710 | INFO | root | 
+Displaying Video data for Channel: Luke Barousse
+
+2023-04-27 15:17:16,710 | INFO | root | ------------------------
+2023-04-27 15:17:16,717 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Google’s BI vs. Advanced Data Analytics Certif...    13-04-2023     77785      3766          198
+1      Freelance Jobs in Data Science ft.@ShashankData    27-03-2023      8070       630            5
+2                      Gain Experience WITHOUT a Job 🤯    24-03-2023     12393      1090           17
+3                How I find Projects as a Data Analyst    22-03-2023     16710      1404            8
+4                       How I Learn Faster with THIS 😴    20-03-2023      7213       564           14
+..                                                 ...           ...       ...       ...          ...
+132  Create Stacked Bar Chart (and any other visual...    11-09-2020      1934        75            8
+133  Dimensions Vs Measures  (Blue Vs Green Data) -...    09-09-2020      2777       119           10
+134  How To Use Tableau Desktop Controls - Tableau ...    01-09-2020      4005       151           10
+135  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20533       388           28
+136  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20533       388           28
+
+[137 rows x 5 columns]
+
+2023-04-27 15:17:16,717 | INFO | root | 
+Displaying Top 10 video's data for Channel: Luke Barousse
+
+2023-04-27 15:17:16,721 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+126  Upload your dashboard to Tableau Public  - Tab...    08-10-2020      9935       163           25
+12          Secrets of a Data Science Hiring Manager 🤫    01-03-2023      9906       696            7
+119  Python Objects frequently used in Data Science...    04-11-2020      9681       386           57
+57        How I use Machine Learning as a Data Analyst    30-08-2022     94655      3351          182
+72   M1 Max/Pro vs M1 Macbook for Data Science.... ...    07-12-2021     94423      2545          263
+88           Standout as a Data Analyst with THIS TOOL    08-05-2021     92049      3359          211
+98                   Day in the life of a data analyst    18-02-2021     91880      2685          383
+58                    How I use Math as a Data Analyst    10-06-2022     88100      4095          301
+10        Is a Data Science Degree really necessary? 🤔    06-03-2023      8809       514            6
+82   Get NOTICED in Data Science!!! (3 types of GRE...    17-08-2021     86240      4798          176
+2023-04-27 15:17:16,722 | INFO | root | ------------------------
+2023-04-27 15:17:16,726 | INFO | root | File Created for Luke Barousse
+2023-04-27 15:17:16,726 | INFO | root | ------------------------
+2023-04-27 15:17:17,667 | INFO | root | ------------------------
+2023-04-27 15:17:17,668 | INFO | root | 
+Displaying Video data for Channel: techTFQ
+
+2023-04-27 15:17:17,668 | INFO | root | ------------------------
+2023-04-27 15:17:17,676 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+0   Solving a Complex SQL Interview problem | Prac...    21-03-2023     20425       597           80
+1   REAL SQL Interview Problem | Hierarchical data...    14-03-2023     11023       499           47
+2     Complete guide to Database Normalization in SQL    07-03-2023     22939      1216          178
+3   SQL Live class on Lighthall | Learn SQL from B...    26-01-2023     10373       236          149
+4   How to learn SQL for free | Roadmap to learnin...    28-12-2022    232019      7908          316
+..                                                ...           ...       ...       ...          ...
+84  Learn What is Database | Types of Database | DBMS    30-08-2020    167449      3118          111
+85                           Do you need a Smartwatch    12-07-2020     11221       182           46
+86         MacBook Pro 13 2020  One Week Later Review    29-06-2020      1339        70           20
+87                       MacBook Pro 13 2020 Unboxing    22-06-2020      2379        88           29
+88                       MacBook Pro 13 2020 Unboxing    22-06-2020      2379        88           29
+
+[89 rows x 5 columns]
+
+2023-04-27 15:17:17,676 | INFO | root | 
+Displaying Top 10 video's data for Channel: techTFQ
+
+2023-04-27 15:17:17,681 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+66  Regular Expressions in Python | Regular Expres...    22-04-2021      9782       286           58
+60  Web Scraping in Python using Beautiful Soup | ...    05-07-2021     96870      3387          325
+29          Solving SQL Query | Rows to Column in SQL    18-05-2022     92387      2489          146
+16  Solving SQL Interview Query using a "VERY IMPO...    19-09-2022     86901      2121          165
+53  Connect to PostgreSQL from Python (Using SQL i...    13-09-2021     85548      2179          133
+65  How to Read and Write Files in Python | File H...    05-05-2021      8525       362           32
+14              How to become a Data Analyst FASTER ?    30-09-2022     84585      3573          180
+71  Exception Handling in Python | TRY EXCEPT in P...    04-03-2021      8417       224           11
+55  STEP by STEP guide to Learn Python | How to le...    29-08-2021      8365       435           45
+82  SQL Basics Tutorial for Beginners (Practice SQ...    11-12-2020    749174     16534          539
+2023-04-27 15:17:17,682 | INFO | root | ------------------------
+2023-04-27 15:17:17,684 | INFO | root | File Created for techTFQ
+2023-04-27 15:17:17,684 | INFO | root | ------------------------
+2023-04-27 15:17:18,950 | INFO | root | ------------------------
+2023-04-27 15:17:18,951 | INFO | root | 
+Displaying Video data for Channel: Tina Huang
+
+2023-04-27 15:17:18,951 | INFO | root | ------------------------
+2023-04-27 15:17:18,959 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0                         Will AI Replace Programmers?    01-04-2023    133822      6817         1364
+1                Open Letter to Pause AI Development 👀    29-03-2023     14452       742           98
+2    My favourite thing about being a data scientis...    12-03-2023     18063      1453           28
+3    How to learn to code FAST using ChatGPT (it's ...    02-03-2023   1095890     43309         1233
+4    How Your Environment Can Improve (Or Destroy) ...    13-02-2023     40275      2525           91
+..                                                 ...           ...       ...       ...          ...
+119  How I Became a Data Scientist | Computer Scien...    02-08-2020     15491       442           41
+120  How I got Software Engineering and Data Scienc...    28-07-2020     30032       997           69
+121  How to choose between software engineering and...    22-07-2020    372834     17007          658
+122                           My UPenn MCIT Experience    17-07-2020     21847       354           74
+123                           My UPenn MCIT Experience    17-07-2020     21847       354           74
+
+[124 rows x 5 columns]
+
+2023-04-27 15:17:18,960 | INFO | root | 
+Displaying Top 10 video's data for Channel: Tina Huang
+
+2023-04-27 15:17:18,964 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+56          Good coding habits to start developing NOW    27-08-2021     98743      4647          177
+23              How to Take Notes for Technical Things    17-05-2022     97222      4990          111
+97   Data Science SQL Interview Question Walkthroug...    28-10-2020      9584       252           50
+30                        How To Learn Anything Faster    27-03-2022     90764      5619          237
+90   Do you have what it takes to be a great data s...    20-12-2020      9029       441           56
+108  A day in the life of a data scientist (FAANG d...    19-09-2020     90104      2682          205
+12   How to Get Over Fear of Failure (and stop proc...    18-10-2022     87753      5426          208
+73   FAANG Data scientist reviews: Datacamp, Dataqu...    18-04-2021     83826      1883          127
+71                    The quant trader interview guide    01-05-2021     83052      1718           85
+51               What it’s like being a data scientist    18-10-2021     80592      3483          172
+2023-04-27 15:17:18,965 | INFO | root | ------------------------
+2023-04-27 15:17:18,966 | INFO | root | File Created for Tina Huang
+2023-04-27 15:17:18,967 | INFO | root | ------------------------
+2023-04-27 15:17:27,804 | INFO | root | ------------------------
+2023-04-27 15:17:27,805 | INFO | root | 
+Displaying Video data for Channel: TechWiser
+
+2023-04-27 15:17:27,805 | INFO | root | ------------------------
+2023-04-27 15:17:27,811 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           We Tested Best Camera Phone *Vivo X90 Pro*    26-04-2023     37580      2620          210
+1                 How Jio Is Killing Netflix, Hotstar!    25-04-2023    155286     16057          836
+2           Every City Should have this Electric Bike!    22-04-2023    913806     65614          529
+3                 Best Smartphone under 25000 in India    21-04-2023    154030      8095          771
+4             5 Crazy Tech That We Saw in South Korea!    19-04-2023     57896      4738          207
+..                                                 ...           ...       ...       ...          ...
+816  Ubuntu 12.04 : Java applet not working with op...    21-06-2013      4109        10            0
+817  Bsnl broadband connection -Setup configure and...    19-06-2013    232112       738          129
+818  How to Install Compile and Run java programs i...    20-05-2013    104328       470           46
+819  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6677       153           45
+820  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6677       153           45
+
+[821 rows x 5 columns]
+
+2023-04-27 15:17:27,811 | INFO | root | 
+Displaying Top 10 video's data for Channel: TechWiser
+
+2023-04-27 15:17:27,816 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+276       OnePlus 10 Pro - Things No One Talked About!    08-04-2022     99716      4494          426
+646  Amazon Fire TV Stick 4k: Is it Worth the Upgrade?    21-11-2018     99602      1025          185
+150            3 Apps to make Windows more productive!    27-09-2022    992049    106552          455
+410  Oppo Enco Buds at Rs 1,499 | Flipkart Big Bill...    11-09-2021     99087      4356          363
+148              Best Upcoming Phones You Should Know!    30-09-2022     99061      7521          268
+243     This OnePlus Phone Could be Game Changer But..    28-05-2022     99028      7443          381
+299  iQOO 9 SE - Is This the Best Midrange Smartpho...    05-03-2022     98056      4727          390
+404        Should You Buy the iPhone 13?? -  SNL EP#38    18-09-2021      9779       637           18
+395  Best Deals  - Amazon Great Indian Festival and...    01-10-2021     97781      4203          355
+405  Xiaomi Mi TV 5X vs Realme Smart TV 4k - *Best ...    18-09-2021     97572      3607          313
+2023-04-27 15:17:27,816 | INFO | root | ------------------------
+2023-04-27 15:17:27,819 | INFO | root | File Created for TechWiser
+2023-04-27 15:17:27,820 | INFO | root | ------------------------
+2023-04-27 15:17:36,576 | INFO | root | ------------------------
+2023-04-27 15:17:36,577 | INFO | root | 
+Displaying Video data for Channel: warikoo
+
+2023-04-27 15:17:36,577 | INFO | root | ------------------------
+2023-04-27 15:17:36,582 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    5 THINGS to do in AUSTRALIA! | Ankur Warikoo #...    27-04-2023      4420       628           12
+1    7 Powerful LIFE LESSONS That'll BLOW Your Mind...    25-04-2023     63324      4417          203
+2    3 SIGNS YOU ARE EMOTIONALLY INTELLIGENT! | Ank...    25-04-2023     45478      4060           52
+3    Watch NOW or REGRET LATER! | 7 LESSONS People ...    22-04-2023    182828     11428          470
+4    3 SIGNS a person TRUSTS YOU! | Ankur Warikoo #...    22-04-2023     38453      3622           47
+..                                                 ...           ...       ...       ...          ...
+900  What is success? | Ankur Warikoo motivation | ...    05-10-2017     11312       477           21
+901  Choosing the right company for job! | Ankur Wa...    05-10-2017     14375       514           14
+902  Is the power of imagination causing you harm? ...    07-09-2017     24551      1039           36
+903  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49386      1926          143
+904  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49386      1926          143
+
+[905 rows x 5 columns]
+
+2023-04-27 15:17:36,582 | INFO | root | 
+Displaying Top 10 video's data for Channel: warikoo
+
+2023-04-27 15:17:36,587 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+64   STUDENTS - Use CHATGPT to WIN in your CAREER! ...    11-02-2023    999326     28963         1055
+153  Do you INVEST? You SHOULD know THIS! | Ankur W...    08-11-2022     99646      7053           33
+579  THE BIGGEST Investing mistake you must avoid |...    15-12-2020     99607      5421          354
+776  Who values you the most? | #warikooWednesdays ...    09-10-2019       994        85            4
+361  Ask Me Anything! | YouTube LIVE with Ankur War...    20-01-2022     99261      4602          299
+401  7 TOP Careers for Success in your 20s | Job Ti...    23-12-2021    992487     44843         1420
+518  Truths behind becoming a SUCCESSFUL Entreprene...    06-05-2021     98987      6113          526
+384  Yeh Buy-Now-Pay-Later Kya Hai? W/ Nitin Gupta ...    04-01-2022     98979      3790          257
+374  Psychology of Money Book Review | Ankur Wariko...    11-01-2022    988072     48289         1742
+803  Why? | Friday Nights With Warikoo Episode 12 |...    21-06-2019       987        40            2
+2023-04-27 15:17:36,587 | INFO | root | ------------------------
+2023-04-27 15:17:36,591 | INFO | root | File Created for warikoo
+2023-04-27 15:17:36,591 | INFO | root | ------------------------
+2023-04-27 15:17:43,174 | INFO | root | ------------------------
+2023-04-27 15:17:43,174 | INFO | root | 
+Displaying Video data for Channel: Akshat Shrivastava
+
+2023-04-27 15:17:43,174 | INFO | root | ------------------------
+2023-04-27 15:17:43,180 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    The worst is yet to come | Fundamental Analysi...    21-04-2023    308194     10451          796
+1    Discussing my X crore portfolio, which beats M...    17-04-2023    204670      6433          546
+2    These stocks were Multibagger. But, now they a...    15-04-2023    329465     16992          693
+3    You frequently follow these finance rules, but...    13-04-2023    149414      6015          221
+4    A BEAUTIFUL house on India's BEST beach | How ...    11-04-2023    139566      3039          273
+..                                                 ...           ...       ...       ...          ...
+599                 GMAT | everything you need to know    08-01-2021    215796      8777          290
+600  Social Impact Career Paths | Dalberg, World Ba...    10-12-2020     28900      1306           63
+601                      Ace your communication style!    03-12-2020     32843      1615           55
+602  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+603  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+
+[604 rows x 5 columns]
+
+2023-04-27 15:17:43,180 | INFO | root | 
+Displaying Top 10 video's data for Channel: Akshat Shrivastava
+
+2023-04-27 15:17:43,186 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+393        GREAT buying opportunity in 2 SOLID stocks!    21-11-2021     99630      4887          363
+390               Should you buy, hold or sell stocks?    23-11-2021     99186      4686          732
+241  PayTm, Nykaa, Zomato in NIFTY Next 50! Buy now...    17-03-2022     99061      3043           63
+539  MBA: USA or Europe? | Brand Value | Cost & Sch...    24-06-2021     98964      4340          799
+501               My next 3 FINANCIALLY DUMB decisions    31-07-2021     98816      4887          650
+487  Is Crypto worth anything? #NFT #SMARTCONTRACT ...    16-08-2021     95685      3271          935
+363     LIVE DISCUSSION: Market and Fall - What to do?    17-12-2021     95519      3595          247
+483  Easiest Strategy to Invest in India | Mutual F...    20-08-2021     94126      3956          432
+250                      Job market crash 2022 #shorts    11-03-2022     93957      2777           38
+295          Markets falling (RBI's Monetary Policy) ?    11-02-2022     93479      5356          217
+2023-04-27 15:17:43,186 | INFO | root | ------------------------
+2023-04-27 15:17:43,189 | INFO | root | File Created for Akshat Shrivastava
+2023-04-27 15:17:43,189 | INFO | root | ------------------------
+2023-04-27 15:17:45,757 | INFO | root | ------------------------
+2023-04-27 15:17:45,758 | INFO | root | 
+Displaying Video data for Channel: Alex The Analyst
+
+2023-04-27 15:17:45,758 | INFO | root | ------------------------
+2023-04-27 15:17:45,764 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Data Analyst Q/A Livestream | April Livestream...    26-04-2023         0        15            0
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9361       391           20
+2        7 Ways to Use ChatGPT for Analytics | Webinar    18-04-2023     16959       676           22
+3    Google Business Intelligence Professional Cert...    18-04-2023     17183       574           53
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90086      2707          297
+..                                                 ...           ...       ...       ...          ...
+206  Working at a Big Company Vs Small Company | To...    25-01-2020     13468       372           20
+207      Data Analyst Salary | 100k with No Experience    23-01-2020     57764      2029          224
+208  Truth About Big Companies | Told by a Fortune ...    21-01-2020      7205       276           17
+209                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+210                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+
+[211 rows x 5 columns]
+
+2023-04-27 15:17:45,764 | INFO | root | 
+Displaying Top 10 video's data for Channel: Alex The Analyst
+
+2023-04-27 15:17:45,768 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+9    Filtering Columns and Rows in Pandas | Python ...    07-03-2023      9978       252           26
+90       Truth About My Job (Song) - As a Data Analyst    08-11-2021      9609       845          103
+160          Top 10 Coursera Courses for Data Analysts    13-10-2020     95984      4395          274
+185  SQL Interview Questions and Answers for Beginn...    13-05-2020     95002      2605           97
+139  Solving Medium Level SQL LeetCode Questions | ...    22-12-2020      9400       215           30
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9361       391           20
+26          Functions in Python | Python for Beginners    06-12-2022      9058       318           19
+131  IBM Data Analyst Professional Certificate by C...    26-01-2021     90185      2550          286
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90086      2707          297
+28          For Loops in Python | Python for Beginners    22-11-2022      8915       293           15
+2023-04-27 15:17:45,769 | INFO | root | ------------------------
+2023-04-27 15:17:45,770 | INFO | root | File Created for Alex The Analyst
+2023-04-27 15:17:45,770 | INFO | root | ------------------------
+2023-04-27 15:17:49,017 | INFO | root | ------------------------
+2023-04-27 15:17:49,017 | INFO | root | 
+Displaying Video data for Channel: Ken Jee
+
+2023-04-27 15:17:49,017 | INFO | root | ------------------------
+2023-04-27 15:17:49,025 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           This AI question will determine our future    06-04-2023      3403       236           32
+1      I'll Never Code the Same Again... (GPT-4 is OP)    03-04-2023     67713       733           77
+2    Your current portfolio is actually hurting you...    30-03-2023      3237       186            2
+3    Traditional "networking" is stupid. Do THIS in...    27-03-2023      3625       217            3
+4                  you're job searching wrong. #shorts    23-03-2023      2837       167            3
+..                                                 ...           ...       ...       ...          ...
+274          Should You Get A Masters in Data Science?    14-11-2018     20403       304          141
+275  How I Became A Data Scientist From a Business ...    12-11-2018      6339       197           23
+276  Predicting Season Long NBA Wins Using Multiple...    10-07-2018      8465       192           17
+277  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18619       292           41
+278  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18619       292           41
+
+[279 rows x 5 columns]
+
+2023-04-27 15:17:49,025 | INFO | root | 
+Displaying Top 10 video's data for Channel: Ken Jee
+
+2023-04-27 15:17:49,030 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+229  Golf: Would You Rather Be the LONGEST or STRAI...    25-11-2019       993        49           12
+37      Data Science Town Hall - State of Data Science    04-08-2022      9896       377           38
+73           Is Spotify Shuffle Really Random? #Shorts    21-07-2021      9881       560           50
+70   Project Presentation - Expectations vs. Realit...    07-08-2021      9845       422           32
+75            Why are APIs Important for Data Science?    09-07-2021      9339       442           95
+119                  Sh*t Data Scientists Say (Parody)    05-10-2020      9327       573          143
+212                         How I Learned Data Science    27-01-2020     93150      2664          210
+100  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+101  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+47       What Professional Data Scientists ACTUALLY Do    14-02-2022     90028      3145          185
+2023-04-27 15:17:49,030 | INFO | root | ------------------------
+2023-04-27 15:17:49,033 | INFO | root | File Created for Ken Jee
+2023-04-27 15:17:49,033 | INFO | root | ------------------------
+2023-04-27 15:18:54,938 | INFO | root | Displaying Multiple Youtube Channel Information.
+
+2023-04-27 15:18:54,940 | INFO | root |           ChannelName Subscribers      Views Videos                PlaylistID                                        Description
+0    Alex The Analyst      453000   17813771    205  UU7cs8q-gJRlGwj4A8OmCmXg  My name is Alex Freberg and on this channel I ...
+1          Tina Huang      520000   22226679    121  UU2UXDak6o7rBm23k3Vv5dww  Hi! My name is Tina and I'm a ex-Meta data sci...
+2             techTFQ      192000    9360776     87  UUnz-ZXXER4jOvuED5trXfEA  Hi, I am Thoufiq! On this channel, I teach SQL...
+3             Ken Jee      241000    7963879    273  UUiT9RITQ9PW6BhXK0y2jaeg  Hi, I'm Ken! Data Science, machine learning, A...
+4  Akshat Shrivastava     1620000  157260071    626  UUqW8jxh4tH1Z1sWPbkGWL4g  Trying to put content that my 1-year old son- ...
+5           TechWiser     1360000  204642214    826  UUdp6GUwjKscp5ST4M4WgIpw  Founded in 2012, TechWiser helps people to sol...
+6             warikoo     2840000  223214715    886  UURzYN32xtBf3Yxsx5BvJWJw  warikoo is a serial entrepreneur, a bestsellin...
+7       Luke Barousse      338000   15452999    134  UULLw7jmFsvfIVaUFsLs8mlQ  What's up, Data Nerds! I'm Luke, a data analys...
+2023-04-27 15:18:57,132 | INFO | root | ------------------------
+2023-04-27 15:18:57,133 | INFO | root | 
+Displaying Video data for Channel: Alex The Analyst
+
+2023-04-27 15:18:57,133 | INFO | root | ------------------------
+2023-04-27 15:18:57,143 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Data Analyst Q/A Livestream | April Livestream...    26-04-2023         0        15            0
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9361       391           20
+2        7 Ways to Use ChatGPT for Analytics | Webinar    18-04-2023     16959       676           22
+3    Google Business Intelligence Professional Cert...    18-04-2023     17183       574           53
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90086      2707          297
+..                                                 ...           ...       ...       ...          ...
+206  Working at a Big Company Vs Small Company | To...    25-01-2020     13468       372           20
+207      Data Analyst Salary | 100k with No Experience    23-01-2020     57764      2029          224
+208  Truth About Big Companies | Told by a Fortune ...    21-01-2020      7205       276           17
+209                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+210                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+
+[211 rows x 5 columns]
+
+2023-04-27 15:18:57,143 | INFO | root | 
+Displaying Top 10 video's data for Channel: Alex The Analyst
+
+2023-04-27 15:18:57,149 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+9    Filtering Columns and Rows in Pandas | Python ...    07-03-2023      9978       252           26
+90       Truth About My Job (Song) - As a Data Analyst    08-11-2021      9609       845          103
+160          Top 10 Coursera Courses for Data Analysts    13-10-2020     95984      4395          274
+185  SQL Interview Questions and Answers for Beginn...    13-05-2020     95002      2605           97
+139  Solving Medium Level SQL LeetCode Questions | ...    22-12-2020      9400       215           30
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9361       391           20
+26          Functions in Python | Python for Beginners    06-12-2022      9058       318           19
+131  IBM Data Analyst Professional Certificate by C...    26-01-2021     90185      2550          286
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90086      2707          297
+28          For Loops in Python | Python for Beginners    22-11-2022      8915       293           15
+2023-04-27 15:18:57,149 | INFO | root | ------------------------
+2023-04-27 15:18:57,153 | INFO | root | File Created for Alex The Analyst
+2023-04-27 15:18:57,153 | INFO | root | ------------------------
+2023-04-27 15:18:58,539 | INFO | root | ------------------------
+2023-04-27 15:18:58,540 | INFO | root | 
+Displaying Video data for Channel: Tina Huang
+
+2023-04-27 15:18:58,540 | INFO | root | ------------------------
+2023-04-27 15:18:58,546 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0                         Will AI Replace Programmers?    01-04-2023    133822      6817         1364
+1                Open Letter to Pause AI Development 👀    29-03-2023     14452       742           98
+2    My favourite thing about being a data scientis...    12-03-2023     18063      1453           28
+3    How to learn to code FAST using ChatGPT (it's ...    02-03-2023   1095890     43309         1233
+4    How Your Environment Can Improve (Or Destroy) ...    13-02-2023     40275      2525           91
+..                                                 ...           ...       ...       ...          ...
+119  How I Became a Data Scientist | Computer Scien...    02-08-2020     15491       442           41
+120  How I got Software Engineering and Data Scienc...    28-07-2020     30032       997           69
+121  How to choose between software engineering and...    22-07-2020    372834     17007          658
+122                           My UPenn MCIT Experience    17-07-2020     21847       354           74
+123                           My UPenn MCIT Experience    17-07-2020     21847       354           74
+
+[124 rows x 5 columns]
+
+2023-04-27 15:18:58,546 | INFO | root | 
+Displaying Top 10 video's data for Channel: Tina Huang
+
+2023-04-27 15:18:58,551 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+56          Good coding habits to start developing NOW    27-08-2021     98743      4647          177
+23              How to Take Notes for Technical Things    17-05-2022     97222      4990          111
+97   Data Science SQL Interview Question Walkthroug...    28-10-2020      9584       252           50
+30                        How To Learn Anything Faster    27-03-2022     90764      5619          237
+90   Do you have what it takes to be a great data s...    20-12-2020      9029       441           56
+108  A day in the life of a data scientist (FAANG d...    19-09-2020     90104      2682          205
+12   How to Get Over Fear of Failure (and stop proc...    18-10-2022     87753      5426          208
+73   FAANG Data scientist reviews: Datacamp, Dataqu...    18-04-2021     83826      1883          127
+71                    The quant trader interview guide    01-05-2021     83052      1718           85
+51               What it’s like being a data scientist    18-10-2021     80592      3483          172
+2023-04-27 15:18:58,551 | INFO | root | ------------------------
+2023-04-27 15:18:58,554 | INFO | root | File Created for Tina Huang
+2023-04-27 15:18:58,554 | INFO | root | ------------------------
+2023-04-27 15:18:59,459 | INFO | root | ------------------------
+2023-04-27 15:18:59,460 | INFO | root | 
+Displaying Video data for Channel: techTFQ
+
+2023-04-27 15:18:59,460 | INFO | root | ------------------------
+2023-04-27 15:18:59,468 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+0   Solving a Complex SQL Interview problem | Prac...    21-03-2023     20425       597           80
+1   REAL SQL Interview Problem | Hierarchical data...    14-03-2023     11024       499           47
+2     Complete guide to Database Normalization in SQL    07-03-2023     22939      1216          178
+3   SQL Live class on Lighthall | Learn SQL from B...    26-01-2023     10373       236          149
+4   How to learn SQL for free | Roadmap to learnin...    28-12-2022    232019      7908          316
+..                                                ...           ...       ...       ...          ...
+84  Learn What is Database | Types of Database | DBMS    30-08-2020    167449      3118          111
+85                           Do you need a Smartwatch    12-07-2020     11221       182           46
+86         MacBook Pro 13 2020  One Week Later Review    29-06-2020      1339        70           20
+87                       MacBook Pro 13 2020 Unboxing    22-06-2020      2379        88           29
+88                       MacBook Pro 13 2020 Unboxing    22-06-2020      2379        88           29
+
+[89 rows x 5 columns]
+
+2023-04-27 15:18:59,468 | INFO | root | 
+Displaying Top 10 video's data for Channel: techTFQ
+
+2023-04-27 15:18:59,473 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+66  Regular Expressions in Python | Regular Expres...    22-04-2021      9782       286           58
+60  Web Scraping in Python using Beautiful Soup | ...    05-07-2021     96870      3387          325
+29          Solving SQL Query | Rows to Column in SQL    18-05-2022     92387      2489          146
+16  Solving SQL Interview Query using a "VERY IMPO...    19-09-2022     86901      2121          165
+53  Connect to PostgreSQL from Python (Using SQL i...    13-09-2021     85548      2179          133
+65  How to Read and Write Files in Python | File H...    05-05-2021      8525       362           32
+14              How to become a Data Analyst FASTER ?    30-09-2022     84585      3573          180
+71  Exception Handling in Python | TRY EXCEPT in P...    04-03-2021      8417       224           11
+55  STEP by STEP guide to Learn Python | How to le...    29-08-2021      8365       435           45
+82  SQL Basics Tutorial for Beginners (Practice SQ...    11-12-2020    749175     16534          539
+2023-04-27 15:18:59,473 | INFO | root | ------------------------
+2023-04-27 15:18:59,476 | INFO | root | File Created for techTFQ
+2023-04-27 15:18:59,476 | INFO | root | ------------------------
+2023-04-27 15:19:02,543 | INFO | root | ------------------------
+2023-04-27 15:19:02,543 | INFO | root | 
+Displaying Video data for Channel: Ken Jee
+
+2023-04-27 15:19:02,543 | INFO | root | ------------------------
+2023-04-27 15:19:02,548 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           This AI question will determine our future    06-04-2023      3403       236           32
+1      I'll Never Code the Same Again... (GPT-4 is OP)    03-04-2023     67713       733           77
+2    Your current portfolio is actually hurting you...    30-03-2023      3237       186            2
+3    Traditional "networking" is stupid. Do THIS in...    27-03-2023      3625       217            3
+4                  you're job searching wrong. #shorts    23-03-2023      2837       167            3
+..                                                 ...           ...       ...       ...          ...
+274          Should You Get A Masters in Data Science?    14-11-2018     20403       304          141
+275  How I Became A Data Scientist From a Business ...    12-11-2018      6339       197           23
+276  Predicting Season Long NBA Wins Using Multiple...    10-07-2018      8465       192           17
+277  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18619       292           41
+278  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18619       292           41
+
+[279 rows x 5 columns]
+
+2023-04-27 15:19:02,549 | INFO | root | 
+Displaying Top 10 video's data for Channel: Ken Jee
+
+2023-04-27 15:19:02,553 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+229  Golf: Would You Rather Be the LONGEST or STRAI...    25-11-2019       993        49           12
+37      Data Science Town Hall - State of Data Science    04-08-2022      9896       377           38
+73           Is Spotify Shuffle Really Random? #Shorts    21-07-2021      9881       560           50
+70   Project Presentation - Expectations vs. Realit...    07-08-2021      9845       422           32
+75            Why are APIs Important for Data Science?    09-07-2021      9339       442           95
+119                  Sh*t Data Scientists Say (Parody)    05-10-2020      9327       573          143
+212                         How I Learned Data Science    27-01-2020     93150      2664          210
+100  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+101  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+47       What Professional Data Scientists ACTUALLY Do    14-02-2022     90028      3145          185
+2023-04-27 15:19:02,553 | INFO | root | ------------------------
+2023-04-27 15:19:02,554 | INFO | root | File Created for Ken Jee
+2023-04-27 15:19:02,554 | INFO | root | ------------------------
+2023-04-27 15:19:08,810 | INFO | root | ------------------------
+2023-04-27 15:19:08,810 | INFO | root | 
+Displaying Video data for Channel: Akshat Shrivastava
+
+2023-04-27 15:19:08,810 | INFO | root | ------------------------
+2023-04-27 15:19:08,817 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    The worst is yet to come | Fundamental Analysi...    21-04-2023    308203     10451          796
+1    Discussing my X crore portfolio, which beats M...    17-04-2023    204670      6433          546
+2    These stocks were Multibagger. But, now they a...    15-04-2023    329469     16992          693
+3    You frequently follow these finance rules, but...    13-04-2023    149414      6016          221
+4    A BEAUTIFUL house on India's BEST beach | How ...    11-04-2023    139566      3039          273
+..                                                 ...           ...       ...       ...          ...
+599                 GMAT | everything you need to know    08-01-2021    215796      8777          290
+600  Social Impact Career Paths | Dalberg, World Ba...    10-12-2020     28900      1306           63
+601                      Ace your communication style!    03-12-2020     32843      1615           55
+602  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+603  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+
+[604 rows x 5 columns]
+
+2023-04-27 15:19:08,818 | INFO | root | 
+Displaying Top 10 video's data for Channel: Akshat Shrivastava
+
+2023-04-27 15:19:08,823 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+393        GREAT buying opportunity in 2 SOLID stocks!    21-11-2021     99630      4887          363
+390               Should you buy, hold or sell stocks?    23-11-2021     99186      4686          732
+241  PayTm, Nykaa, Zomato in NIFTY Next 50! Buy now...    17-03-2022     99061      3043           63
+539  MBA: USA or Europe? | Brand Value | Cost & Sch...    24-06-2021     98964      4340          799
+501               My next 3 FINANCIALLY DUMB decisions    31-07-2021     98816      4887          650
+487  Is Crypto worth anything? #NFT #SMARTCONTRACT ...    16-08-2021     95685      3271          935
+363     LIVE DISCUSSION: Market and Fall - What to do?    17-12-2021     95519      3595          247
+483  Easiest Strategy to Invest in India | Mutual F...    20-08-2021     94126      3956          432
+250                      Job market crash 2022 #shorts    11-03-2022     93957      2777           38
+295          Markets falling (RBI's Monetary Policy) ?    11-02-2022     93479      5356          217
+2023-04-27 15:19:08,823 | INFO | root | ------------------------
+2023-04-27 15:19:08,826 | INFO | root | File Created for Akshat Shrivastava
+2023-04-27 15:19:08,826 | INFO | root | ------------------------
+2023-04-27 15:19:16,711 | INFO | root | ------------------------
+2023-04-27 15:19:16,711 | INFO | root | 
+Displaying Video data for Channel: TechWiser
+
+2023-04-27 15:19:16,711 | INFO | root | ------------------------
+2023-04-27 15:19:16,718 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           We Tested Best Camera Phone *Vivo X90 Pro*    26-04-2023     37580      2621          210
+1                 How Jio Is Killing Netflix, Hotstar!    25-04-2023    155286     16058          836
+2           Every City Should have this Electric Bike!    22-04-2023    913908     65635          529
+3                 Best Smartphone under 25000 in India    21-04-2023    154030      8095          771
+4             5 Crazy Tech That We Saw in South Korea!    19-04-2023     57896      4738          207
+..                                                 ...           ...       ...       ...          ...
+816  Ubuntu 12.04 : Java applet not working with op...    21-06-2013      4109        10            0
+817  Bsnl broadband connection -Setup configure and...    19-06-2013    232112       738          129
+818  How to Install Compile and Run java programs i...    20-05-2013    104328       470           46
+819  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6677       153           45
+820  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6677       153           45
+
+[821 rows x 5 columns]
+
+2023-04-27 15:19:16,718 | INFO | root | 
+Displaying Top 10 video's data for Channel: TechWiser
+
+2023-04-27 15:19:16,724 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+276       OnePlus 10 Pro - Things No One Talked About!    08-04-2022     99716      4494          426
+646  Amazon Fire TV Stick 4k: Is it Worth the Upgrade?    21-11-2018     99602      1025          185
+150            3 Apps to make Windows more productive!    27-09-2022    992049    106552          455
+410  Oppo Enco Buds at Rs 1,499 | Flipkart Big Bill...    11-09-2021     99087      4356          363
+148              Best Upcoming Phones You Should Know!    30-09-2022     99061      7521          268
+243     This OnePlus Phone Could be Game Changer But..    28-05-2022     99028      7443          381
+299  iQOO 9 SE - Is This the Best Midrange Smartpho...    05-03-2022     98056      4727          390
+404        Should You Buy the iPhone 13?? -  SNL EP#38    18-09-2021      9779       637           18
+395  Best Deals  - Amazon Great Indian Festival and...    01-10-2021     97781      4203          355
+405  Xiaomi Mi TV 5X vs Realme Smart TV 4k - *Best ...    18-09-2021     97572      3607          313
+2023-04-27 15:19:16,724 | INFO | root | ------------------------
+2023-04-27 15:19:16,728 | INFO | root | File Created for TechWiser
+2023-04-27 15:19:16,728 | INFO | root | ------------------------
+2023-04-27 15:19:25,350 | INFO | root | ------------------------
+2023-04-27 15:19:25,350 | INFO | root | 
+Displaying Video data for Channel: warikoo
+
+2023-04-27 15:19:25,351 | INFO | root | ------------------------
+2023-04-27 15:19:25,357 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    5 THINGS to do in AUSTRALIA! | Ankur Warikoo #...    27-04-2023      4447       632           12
+1    7 Powerful LIFE LESSONS That'll BLOW Your Mind...    25-04-2023     63324      4418          203
+2    3 SIGNS YOU ARE EMOTIONALLY INTELLIGENT! | Ank...    25-04-2023     45478      4061           52
+3    Watch NOW or REGRET LATER! | 7 LESSONS People ...    22-04-2023    182828     11430          470
+4    3 SIGNS a person TRUSTS YOU! | Ankur Warikoo #...    22-04-2023     38453      3622           47
+..                                                 ...           ...       ...       ...          ...
+900  What is success? | Ankur Warikoo motivation | ...    05-10-2017     11312       477           21
+901  Choosing the right company for job! | Ankur Wa...    05-10-2017     14375       514           14
+902  Is the power of imagination causing you harm? ...    07-09-2017     24551      1039           36
+903  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49386      1926          143
+904  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49386      1926          143
+
+[905 rows x 5 columns]
+
+2023-04-27 15:19:25,357 | INFO | root | 
+Displaying Top 10 video's data for Channel: warikoo
+
+2023-04-27 15:19:25,362 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+64   STUDENTS - Use CHATGPT to WIN in your CAREER! ...    11-02-2023    999326     28963         1055
+153  Do you INVEST? You SHOULD know THIS! | Ankur W...    08-11-2022     99646      7053           33
+579  THE BIGGEST Investing mistake you must avoid |...    15-12-2020     99607      5421          354
+776  Who values you the most? | #warikooWednesdays ...    09-10-2019       994        85            4
+361  Ask Me Anything! | YouTube LIVE with Ankur War...    20-01-2022     99261      4602          299
+401  7 TOP Careers for Success in your 20s | Job Ti...    23-12-2021    992490     44843         1420
+518  Truths behind becoming a SUCCESSFUL Entreprene...    06-05-2021     98987      6113          526
+384  Yeh Buy-Now-Pay-Later Kya Hai? W/ Nitin Gupta ...    04-01-2022     98979      3790          257
+374  Psychology of Money Book Review | Ankur Wariko...    11-01-2022    988072     48289         1742
+803  Why? | Friday Nights With Warikoo Episode 12 |...    21-06-2019       987        40            2
+2023-04-27 15:19:25,362 | INFO | root | ------------------------
+2023-04-27 15:19:25,367 | INFO | root | File Created for warikoo
+2023-04-27 15:19:25,367 | INFO | root | ------------------------
+2023-04-27 15:19:27,113 | INFO | root | ------------------------
+2023-04-27 15:19:27,114 | INFO | root | 
+Displaying Video data for Channel: Luke Barousse
+
+2023-04-27 15:19:27,114 | INFO | root | ------------------------
+2023-04-27 15:19:27,120 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Google’s BI vs. Advanced Data Analytics Certif...    13-04-2023     77785      3766          198
+1      Freelance Jobs in Data Science ft.@ShashankData    27-03-2023      8071       630            5
+2                      Gain Experience WITHOUT a Job 🤯    24-03-2023     12393      1090           17
+3                How I find Projects as a Data Analyst    22-03-2023     16710      1404            8
+4                       How I Learn Faster with THIS 😴    20-03-2023      7213       564           14
+..                                                 ...           ...       ...       ...          ...
+132  Create Stacked Bar Chart (and any other visual...    11-09-2020      1934        75            8
+133  Dimensions Vs Measures  (Blue Vs Green Data) -...    09-09-2020      2777       119           10
+134  How To Use Tableau Desktop Controls - Tableau ...    01-09-2020      4005       151           10
+135  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20533       388           28
+136  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20533       388           28
+
+[137 rows x 5 columns]
+
+2023-04-27 15:19:27,120 | INFO | root | 
+Displaying Top 10 video's data for Channel: Luke Barousse
+
+2023-04-27 15:19:27,125 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+126  Upload your dashboard to Tableau Public  - Tab...    08-10-2020      9935       163           25
+12          Secrets of a Data Science Hiring Manager 🤫    01-03-2023      9906       696            7
+119  Python Objects frequently used in Data Science...    04-11-2020      9681       386           57
+57        How I use Machine Learning as a Data Analyst    30-08-2022     94655      3351          182
+72   M1 Max/Pro vs M1 Macbook for Data Science.... ...    07-12-2021     94423      2545          263
+88           Standout as a Data Analyst with THIS TOOL    08-05-2021     92049      3359          211
+98                   Day in the life of a data analyst    18-02-2021     91880      2685          383
+58                    How I use Math as a Data Analyst    10-06-2022     88100      4095          301
+10        Is a Data Science Degree really necessary? 🤔    06-03-2023      8809       514            6
+82   Get NOTICED in Data Science!!! (3 types of GRE...    17-08-2021     86240      4798          176
+2023-04-27 15:19:27,125 | INFO | root | ------------------------
+2023-04-27 15:19:27,127 | INFO | root | File Created for Luke Barousse
+2023-04-27 15:19:27,127 | INFO | root | ------------------------
+2023-04-27 15:21:50,460 | INFO | root | Displaying Multiple Youtube Channel Information.
+
+2023-04-27 15:21:50,461 | INFO | root |           ChannelName Subscribers      Views Videos                PlaylistID                                        Description
+0       Luke Barousse      338000   15452999    134  UULLw7jmFsvfIVaUFsLs8mlQ  What's up, Data Nerds! I'm Luke, a data analys...
+1  Akshat Shrivastava     1620000  157260071    626  UUqW8jxh4tH1Z1sWPbkGWL4g  Trying to put content that my 1-year old son- ...
+2             Ken Jee      241000    7963879    273  UUiT9RITQ9PW6BhXK0y2jaeg  Hi, I'm Ken! Data Science, machine learning, A...
+3             warikoo     2840000  223214715    886  UURzYN32xtBf3Yxsx5BvJWJw  warikoo is a serial entrepreneur, a bestsellin...
+4          Tina Huang      520000   22226679    121  UU2UXDak6o7rBm23k3Vv5dww  Hi! My name is Tina and I'm a ex-Meta data sci...
+5           TechWiser     1360000  204642214    826  UUdp6GUwjKscp5ST4M4WgIpw  Founded in 2012, TechWiser helps people to sol...
+6    Alex The Analyst      453000   17813771    205  UU7cs8q-gJRlGwj4A8OmCmXg  My name is Alex Freberg and on this channel I ...
+7             techTFQ      192000    9360776     87  UUnz-ZXXER4jOvuED5trXfEA  Hi, I am Thoufiq! On this channel, I teach SQL...
+2023-04-27 15:21:52,083 | INFO | root | ------------------------
+2023-04-27 15:21:52,083 | INFO | root | 
+Displaying Video data for Channel: Luke Barousse
+
+2023-04-27 15:21:52,083 | INFO | root | ------------------------
+2023-04-27 15:21:52,091 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Google’s BI vs. Advanced Data Analytics Certif...    13-04-2023     77785      3766          198
+1      Freelance Jobs in Data Science ft.@ShashankData    27-03-2023      8071       630            5
+2                      Gain Experience WITHOUT a Job 🤯    24-03-2023     12393      1090           17
+3                How I find Projects as a Data Analyst    22-03-2023     16710      1404            8
+4                       How I Learn Faster with THIS 😴    20-03-2023      7213       564           14
+..                                                 ...           ...       ...       ...          ...
+132  Create Stacked Bar Chart (and any other visual...    11-09-2020      1934        75            8
+133  Dimensions Vs Measures  (Blue Vs Green Data) -...    09-09-2020      2777       119           10
+134  How To Use Tableau Desktop Controls - Tableau ...    01-09-2020      4005       151           10
+135  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20533       388           28
+136  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20533       388           28
+
+[137 rows x 5 columns]
+
+2023-04-27 15:21:52,092 | INFO | root | 
+Displaying Top 10 video's data for Channel: Luke Barousse
+
+2023-04-27 15:21:52,097 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+126  Upload your dashboard to Tableau Public  - Tab...    08-10-2020      9935       163           25
+12          Secrets of a Data Science Hiring Manager 🤫    01-03-2023      9906       696            7
+119  Python Objects frequently used in Data Science...    04-11-2020      9681       386           57
+57        How I use Machine Learning as a Data Analyst    30-08-2022     94655      3351          182
+72   M1 Max/Pro vs M1 Macbook for Data Science.... ...    07-12-2021     94423      2545          263
+88           Standout as a Data Analyst with THIS TOOL    08-05-2021     92049      3359          211
+98                   Day in the life of a data analyst    18-02-2021     91880      2685          383
+58                    How I use Math as a Data Analyst    10-06-2022     88100      4095          301
+10        Is a Data Science Degree really necessary? 🤔    06-03-2023      8809       514            6
+82   Get NOTICED in Data Science!!! (3 types of GRE...    17-08-2021     86240      4798          176
+2023-04-27 15:21:52,097 | INFO | root | ------------------------
+2023-04-27 15:21:52,101 | INFO | root | File Created for Luke Barousse
+2023-04-27 15:21:52,101 | INFO | root | ------------------------
+2023-04-27 15:21:58,044 | INFO | root | ------------------------
+2023-04-27 15:21:58,045 | INFO | root | 
+Displaying Video data for Channel: Akshat Shrivastava
+
+2023-04-27 15:21:58,045 | INFO | root | ------------------------
+2023-04-27 15:21:58,051 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    The worst is yet to come | Fundamental Analysi...    21-04-2023    308203     10451          796
+1    Discussing my X crore portfolio, which beats M...    17-04-2023    204670      6433          546
+2    These stocks were Multibagger. But, now they a...    15-04-2023    329469     16992          693
+3    You frequently follow these finance rules, but...    13-04-2023    149414      6016          221
+4    A BEAUTIFUL house on India's BEST beach | How ...    11-04-2023    139567      3039          273
+..                                                 ...           ...       ...       ...          ...
+599                 GMAT | everything you need to know    08-01-2021    215796      8777          290
+600  Social Impact Career Paths | Dalberg, World Ba...    10-12-2020     28900      1306           63
+601                      Ace your communication style!    03-12-2020     32843      1615           55
+602  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+603  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+
+[604 rows x 5 columns]
+
+2023-04-27 15:21:58,051 | INFO | root | 
+Displaying Top 10 video's data for Channel: Akshat Shrivastava
+
+2023-04-27 15:21:58,056 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+393        GREAT buying opportunity in 2 SOLID stocks!    21-11-2021     99630      4887          363
+390               Should you buy, hold or sell stocks?    23-11-2021     99186      4686          732
+241  PayTm, Nykaa, Zomato in NIFTY Next 50! Buy now...    17-03-2022     99061      3043           63
+539  MBA: USA or Europe? | Brand Value | Cost & Sch...    24-06-2021     98964      4340          799
+501               My next 3 FINANCIALLY DUMB decisions    31-07-2021     98816      4887          650
+487  Is Crypto worth anything? #NFT #SMARTCONTRACT ...    16-08-2021     95685      3271          935
+363     LIVE DISCUSSION: Market and Fall - What to do?    17-12-2021     95519      3595          247
+483  Easiest Strategy to Invest in India | Mutual F...    20-08-2021     94126      3956          432
+250                      Job market crash 2022 #shorts    11-03-2022     93957      2777           38
+295          Markets falling (RBI's Monetary Policy) ?    11-02-2022     93479      5356          217
+2023-04-27 15:21:58,056 | INFO | root | ------------------------
+2023-04-27 15:21:58,059 | INFO | root | File Created for Akshat Shrivastava
+2023-04-27 15:21:58,059 | INFO | root | ------------------------
+2023-04-27 15:22:00,930 | INFO | root | ------------------------
+2023-04-27 15:22:00,930 | INFO | root | 
+Displaying Video data for Channel: Ken Jee
+
+2023-04-27 15:22:00,930 | INFO | root | ------------------------
+2023-04-27 15:22:00,937 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           This AI question will determine our future    06-04-2023      3403       236           32
+1      I'll Never Code the Same Again... (GPT-4 is OP)    03-04-2023     67713       733           77
+2    Your current portfolio is actually hurting you...    30-03-2023      3237       186            2
+3    Traditional "networking" is stupid. Do THIS in...    27-03-2023      3625       217            3
+4                  you're job searching wrong. #shorts    23-03-2023      2837       167            3
+..                                                 ...           ...       ...       ...          ...
+274          Should You Get A Masters in Data Science?    14-11-2018     20403       304          141
+275  How I Became A Data Scientist From a Business ...    12-11-2018      6339       197           23
+276  Predicting Season Long NBA Wins Using Multiple...    10-07-2018      8465       192           17
+277  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18619       292           41
+278  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18619       292           41
+
+[279 rows x 5 columns]
+
+2023-04-27 15:22:00,937 | INFO | root | 
+Displaying Top 10 video's data for Channel: Ken Jee
+
+2023-04-27 15:22:00,942 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+229  Golf: Would You Rather Be the LONGEST or STRAI...    25-11-2019       993        49           12
+37      Data Science Town Hall - State of Data Science    04-08-2022      9896       377           38
+73           Is Spotify Shuffle Really Random? #Shorts    21-07-2021      9881       560           50
+70   Project Presentation - Expectations vs. Realit...    07-08-2021      9845       422           32
+75            Why are APIs Important for Data Science?    09-07-2021      9339       442           95
+119                  Sh*t Data Scientists Say (Parody)    05-10-2020      9327       573          143
+212                         How I Learned Data Science    27-01-2020     93150      2664          210
+100  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+101  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+47       What Professional Data Scientists ACTUALLY Do    14-02-2022     90028      3145          185
+2023-04-27 15:22:00,942 | INFO | root | ------------------------
+2023-04-27 15:22:00,944 | INFO | root | File Created for Ken Jee
+2023-04-27 15:22:00,944 | INFO | root | ------------------------
+2023-04-27 15:22:09,528 | INFO | root | ------------------------
+2023-04-27 15:22:09,529 | INFO | root | 
+Displaying Video data for Channel: warikoo
+
+2023-04-27 15:22:09,529 | INFO | root | ------------------------
+2023-04-27 15:22:09,535 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    5 THINGS to do in AUSTRALIA! | Ankur Warikoo #...    27-04-2023      4462       637           12
+1    7 Powerful LIFE LESSONS That'll BLOW Your Mind...    25-04-2023     63335      4418          203
+2    3 SIGNS YOU ARE EMOTIONALLY INTELLIGENT! | Ank...    25-04-2023     45497      4062           52
+3    Watch NOW or REGRET LATER! | 7 LESSONS People ...    22-04-2023    182843     11431          470
+4    3 SIGNS a person TRUSTS YOU! | Ankur Warikoo #...    22-04-2023     38453      3622           47
+..                                                 ...           ...       ...       ...          ...
+900  What is success? | Ankur Warikoo motivation | ...    05-10-2017     11312       477           21
+901  Choosing the right company for job! | Ankur Wa...    05-10-2017     14375       514           14
+902  Is the power of imagination causing you harm? ...    07-09-2017     24551      1039           36
+903  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49386      1926          143
+904  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49386      1926          143
+
+[905 rows x 5 columns]
+
+2023-04-27 15:22:09,535 | INFO | root | 
+Displaying Top 10 video's data for Channel: warikoo
+
+2023-04-27 15:22:09,540 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+64   STUDENTS - Use CHATGPT to WIN in your CAREER! ...    11-02-2023    999327     28963         1055
+153  Do you INVEST? You SHOULD know THIS! | Ankur W...    08-11-2022     99646      7053           33
+579  THE BIGGEST Investing mistake you must avoid |...    15-12-2020     99607      5421          354
+776  Who values you the most? | #warikooWednesdays ...    09-10-2019       994        85            4
+361  Ask Me Anything! | YouTube LIVE with Ankur War...    20-01-2022     99261      4602          299
+401  7 TOP Careers for Success in your 20s | Job Ti...    23-12-2021    992490     44843         1420
+518  Truths behind becoming a SUCCESSFUL Entreprene...    06-05-2021     98987      6113          526
+384  Yeh Buy-Now-Pay-Later Kya Hai? W/ Nitin Gupta ...    04-01-2022     98979      3790          257
+374  Psychology of Money Book Review | Ankur Wariko...    11-01-2022    988072     48289         1742
+803  Why? | Friday Nights With Warikoo Episode 12 |...    21-06-2019       987        40            2
+2023-04-27 15:22:09,540 | INFO | root | ------------------------
+2023-04-27 15:22:09,544 | INFO | root | File Created for warikoo
+2023-04-27 15:22:09,544 | INFO | root | ------------------------
+2023-04-27 15:22:10,904 | INFO | root | ------------------------
+2023-04-27 15:22:10,904 | INFO | root | 
+Displaying Video data for Channel: Tina Huang
+
+2023-04-27 15:22:10,904 | INFO | root | ------------------------
+2023-04-27 15:22:10,911 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0                         Will AI Replace Programmers?    01-04-2023    133822      6817         1364
+1                Open Letter to Pause AI Development 👀    29-03-2023     14452       742           98
+2    My favourite thing about being a data scientis...    12-03-2023     18063      1453           28
+3    How to learn to code FAST using ChatGPT (it's ...    02-03-2023   1095897     43309         1233
+4    How Your Environment Can Improve (Or Destroy) ...    13-02-2023     40275      2525           91
+..                                                 ...           ...       ...       ...          ...
+119  How I Became a Data Scientist | Computer Scien...    02-08-2020     15491       442           41
+120  How I got Software Engineering and Data Scienc...    28-07-2020     30032       997           69
+121  How to choose between software engineering and...    22-07-2020    372834     17007          658
+122                           My UPenn MCIT Experience    17-07-2020     21847       354           74
+123                           My UPenn MCIT Experience    17-07-2020     21847       354           74
+
+[124 rows x 5 columns]
+
+2023-04-27 15:22:10,911 | INFO | root | 
+Displaying Top 10 video's data for Channel: Tina Huang
+
+2023-04-27 15:22:10,916 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+56          Good coding habits to start developing NOW    27-08-2021     98743      4647          177
+23              How to Take Notes for Technical Things    17-05-2022     97222      4990          111
+97   Data Science SQL Interview Question Walkthroug...    28-10-2020      9584       252           50
+30                        How To Learn Anything Faster    27-03-2022     90764      5619          237
+90   Do you have what it takes to be a great data s...    20-12-2020      9029       441           56
+108  A day in the life of a data scientist (FAANG d...    19-09-2020     90104      2682          205
+12   How to Get Over Fear of Failure (and stop proc...    18-10-2022     87753      5426          208
+73   FAANG Data scientist reviews: Datacamp, Dataqu...    18-04-2021     83826      1883          127
+71                    The quant trader interview guide    01-05-2021     83052      1718           85
+51               What it’s like being a data scientist    18-10-2021     80592      3483          172
+2023-04-27 15:22:10,916 | INFO | root | ------------------------
+2023-04-27 15:22:10,918 | INFO | root | File Created for Tina Huang
+2023-04-27 15:22:10,918 | INFO | root | ------------------------
+2023-04-27 15:22:18,627 | INFO | root | ------------------------
+2023-04-27 15:22:18,627 | INFO | root | 
+Displaying Video data for Channel: TechWiser
+
+2023-04-27 15:22:18,627 | INFO | root | ------------------------
+2023-04-27 15:22:18,635 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           We Tested Best Camera Phone *Vivo X90 Pro*    26-04-2023     37603      2623          210
+1                 How Jio Is Killing Netflix, Hotstar!    25-04-2023    155309     16065          836
+2           Every City Should have this Electric Bike!    22-04-2023    913908     65651          529
+3                 Best Smartphone under 25000 in India    21-04-2023    154056      8095          771
+4             5 Crazy Tech That We Saw in South Korea!    19-04-2023     57896      4739          207
+..                                                 ...           ...       ...       ...          ...
+816  Ubuntu 12.04 : Java applet not working with op...    21-06-2013      4109        10            0
+817  Bsnl broadband connection -Setup configure and...    19-06-2013    232112       738          129
+818  How to Install Compile and Run java programs i...    20-05-2013    104328       470           46
+819  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6677       153           45
+820  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6677       153           45
+
+[821 rows x 5 columns]
+
+2023-04-27 15:22:18,635 | INFO | root | 
+Displaying Top 10 video's data for Channel: TechWiser
+
+2023-04-27 15:22:18,641 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+276       OnePlus 10 Pro - Things No One Talked About!    08-04-2022     99716      4494          426
+646  Amazon Fire TV Stick 4k: Is it Worth the Upgrade?    21-11-2018     99602      1025          185
+150            3 Apps to make Windows more productive!    27-09-2022    992055    106553          455
+410  Oppo Enco Buds at Rs 1,499 | Flipkart Big Bill...    11-09-2021     99087      4356          363
+148              Best Upcoming Phones You Should Know!    30-09-2022     99061      7521          268
+243     This OnePlus Phone Could be Game Changer But..    28-05-2022     99028      7443          381
+299  iQOO 9 SE - Is This the Best Midrange Smartpho...    05-03-2022     98056      4727          390
+404        Should You Buy the iPhone 13?? -  SNL EP#38    18-09-2021      9779       637           18
+395  Best Deals  - Amazon Great Indian Festival and...    01-10-2021     97781      4203          355
+405  Xiaomi Mi TV 5X vs Realme Smart TV 4k - *Best ...    18-09-2021     97572      3607          313
+2023-04-27 15:22:18,641 | INFO | root | ------------------------
+2023-04-27 15:22:18,646 | INFO | root | File Created for TechWiser
+2023-04-27 15:22:18,646 | INFO | root | ------------------------
+2023-04-27 15:22:20,843 | INFO | root | ------------------------
+2023-04-27 15:22:20,844 | INFO | root | 
+Displaying Video data for Channel: Alex The Analyst
+
+2023-04-27 15:22:20,844 | INFO | root | ------------------------
+2023-04-27 15:22:20,854 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Data Analyst Q/A Livestream | April Livestream...    26-04-2023         0        15            0
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9365       392           20
+2        7 Ways to Use ChatGPT for Analytics | Webinar    18-04-2023     16959       676           22
+3    Google Business Intelligence Professional Cert...    18-04-2023     17183       574           53
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90086      2707          297
+..                                                 ...           ...       ...       ...          ...
+206  Working at a Big Company Vs Small Company | To...    25-01-2020     13468       372           20
+207      Data Analyst Salary | 100k with No Experience    23-01-2020     57764      2029          224
+208  Truth About Big Companies | Told by a Fortune ...    21-01-2020      7205       276           17
+209                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+210                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+
+[211 rows x 5 columns]
+
+2023-04-27 15:22:20,854 | INFO | root | 
+Displaying Top 10 video's data for Channel: Alex The Analyst
+
+2023-04-27 15:22:20,860 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+9    Filtering Columns and Rows in Pandas | Python ...    07-03-2023      9978       252           26
+90       Truth About My Job (Song) - As a Data Analyst    08-11-2021      9609       845          103
+160          Top 10 Coursera Courses for Data Analysts    13-10-2020     95984      4395          274
+185  SQL Interview Questions and Answers for Beginn...    13-05-2020     95002      2605           97
+139  Solving Medium Level SQL LeetCode Questions | ...    22-12-2020      9400       215           30
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9365       392           20
+26          Functions in Python | Python for Beginners    06-12-2022      9058       318           19
+131  IBM Data Analyst Professional Certificate by C...    26-01-2021     90185      2550          286
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90086      2707          297
+28          For Loops in Python | Python for Beginners    22-11-2022      8915       293           15
+2023-04-27 15:22:20,860 | INFO | root | ------------------------
+2023-04-27 15:22:20,862 | INFO | root | File Created for Alex The Analyst
+2023-04-27 15:22:20,862 | INFO | root | ------------------------
+2023-04-27 15:22:21,942 | INFO | root | ------------------------
+2023-04-27 15:22:21,942 | INFO | root | 
+Displaying Video data for Channel: techTFQ
+
+2023-04-27 15:22:21,942 | INFO | root | ------------------------
+2023-04-27 15:22:21,948 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+0   Solving a Complex SQL Interview problem | Prac...    21-03-2023     20425       597           80
+1   REAL SQL Interview Problem | Hierarchical data...    14-03-2023     11024       499           47
+2     Complete guide to Database Normalization in SQL    07-03-2023     22940      1216          178
+3   SQL Live class on Lighthall | Learn SQL from B...    26-01-2023     10373       236          149
+4   How to learn SQL for free | Roadmap to learnin...    28-12-2022    232020      7908          316
+..                                                ...           ...       ...       ...          ...
+84  Learn What is Database | Types of Database | DBMS    30-08-2020    167449      3118          111
+85                           Do you need a Smartwatch    12-07-2020     11221       182           46
+86         MacBook Pro 13 2020  One Week Later Review    29-06-2020      1339        70           20
+87                       MacBook Pro 13 2020 Unboxing    22-06-2020      2379        88           29
+88                       MacBook Pro 13 2020 Unboxing    22-06-2020      2379        88           29
+
+[89 rows x 5 columns]
+
+2023-04-27 15:22:21,948 | INFO | root | 
+Displaying Top 10 video's data for Channel: techTFQ
+
+2023-04-27 15:22:21,953 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+66  Regular Expressions in Python | Regular Expres...    22-04-2021      9782       286           58
+60  Web Scraping in Python using Beautiful Soup | ...    05-07-2021     96870      3387          325
+29          Solving SQL Query | Rows to Column in SQL    18-05-2022     92387      2489          146
+16  Solving SQL Interview Query using a "VERY IMPO...    19-09-2022     86901      2121          165
+53  Connect to PostgreSQL from Python (Using SQL i...    13-09-2021     85548      2179          133
+65  How to Read and Write Files in Python | File H...    05-05-2021      8525       362           32
+14              How to become a Data Analyst FASTER ?    30-09-2022     84586      3573          180
+71  Exception Handling in Python | TRY EXCEPT in P...    04-03-2021      8417       224           11
+55  STEP by STEP guide to Learn Python | How to le...    29-08-2021      8365       435           45
+82  SQL Basics Tutorial for Beginners (Practice SQ...    11-12-2020    749175     16534          539
+2023-04-27 15:22:21,953 | INFO | root | ------------------------
+2023-04-27 15:22:21,955 | INFO | root | File Created for techTFQ
+2023-04-27 15:22:21,955 | INFO | root | ------------------------
+2023-04-27 17:28:24,533 | INFO | root | Displaying Multiple Youtube Channel Information.
+
+2023-04-27 17:28:24,533 | INFO | root |           ChannelName Subscribers      Views Videos                PlaylistID                                        Description
+0          Tina Huang      520000   22226679    121  UU2UXDak6o7rBm23k3Vv5dww  Hi! My name is Tina and I'm a ex-Meta data sci...
+1             techTFQ      192000    9360776     87  UUnz-ZXXER4jOvuED5trXfEA  Hi, I am Thoufiq! On this channel, I teach SQL...
+2             Ken Jee      241000    7963879    273  UUiT9RITQ9PW6BhXK0y2jaeg  Hi, I'm Ken! Data Science, machine learning, A...
+3             warikoo     2840000  223214715    886  UURzYN32xtBf3Yxsx5BvJWJw  warikoo is a serial entrepreneur, a bestsellin...
+4       Luke Barousse      338000   15452999    134  UULLw7jmFsvfIVaUFsLs8mlQ  What's up, Data Nerds! I'm Luke, a data analys...
+5    Alex The Analyst      453000   17813771    205  UU7cs8q-gJRlGwj4A8OmCmXg  My name is Alex Freberg and on this channel I ...
+6  Akshat Shrivastava     1620000  157260071    626  UUqW8jxh4tH1Z1sWPbkGWL4g  Trying to put content that my 1-year old son- ...
+7           TechWiser     1360000  204642214    826  UUdp6GUwjKscp5ST4M4WgIpw  Founded in 2012, TechWiser helps people to sol...
+2023-04-27 17:28:26,136 | INFO | root | ------------------------
+2023-04-27 17:28:26,137 | INFO | root | 
+Displaying Video data for Channel: Tina Huang
+
+2023-04-27 17:28:26,137 | INFO | root | ------------------------
+2023-04-27 17:28:26,148 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0                         Will AI Replace Programmers?    01-04-2023    133894      6818         1366
+1                Open Letter to Pause AI Development 👀    29-03-2023     14457       742           98
+2    My favourite thing about being a data scientis...    12-03-2023     18070      1454           28
+3    How to learn to code FAST using ChatGPT (it's ...    02-03-2023   1096365     43321         1235
+4    How Your Environment Can Improve (Or Destroy) ...    13-02-2023     40277      2525           91
+..                                                 ...           ...       ...       ...          ...
+119  How I Became a Data Scientist | Computer Scien...    02-08-2020     15492       442           41
+120  How I got Software Engineering and Data Scienc...    28-07-2020     30032       997           69
+121  How to choose between software engineering and...    22-07-2020    372842     17007          658
+122                           My UPenn MCIT Experience    17-07-2020     21848       354           74
+123                           My UPenn MCIT Experience    17-07-2020     21848       354           74
+
+[124 rows x 5 columns]
+
+2023-04-27 17:28:26,148 | INFO | root | 
+Displaying Top 10 video's data for Channel: Tina Huang
+
+2023-04-27 17:28:26,156 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+56          Good coding habits to start developing NOW    27-08-2021     98743      4647          177
+23              How to Take Notes for Technical Things    17-05-2022     97226      4990          111
+97   Data Science SQL Interview Question Walkthroug...    28-10-2020      9584       252           50
+30                        How To Learn Anything Faster    27-03-2022     90764      5619          237
+90   Do you have what it takes to be a great data s...    20-12-2020      9029       441           56
+108  A day in the life of a data scientist (FAANG d...    19-09-2020     90107      2682          205
+12   How to Get Over Fear of Failure (and stop proc...    18-10-2022     87762      5426          208
+73   FAANG Data scientist reviews: Datacamp, Dataqu...    18-04-2021     83830      1883          127
+71                    The quant trader interview guide    01-05-2021     83060      1718           85
+51               What it’s like being a data scientist    18-10-2021     80592      3483          172
+2023-04-27 17:28:26,156 | INFO | root | ------------------------
+2023-04-27 17:28:26,160 | INFO | root | File Created for Tina Huang
+2023-04-27 17:28:26,160 | INFO | root | ------------------------
+2023-04-27 17:28:27,440 | INFO | root | ------------------------
+2023-04-27 17:28:27,440 | INFO | root | 
+Displaying Video data for Channel: techTFQ
+
+2023-04-27 17:28:27,440 | INFO | root | ------------------------
+2023-04-27 17:28:27,448 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+0   Solving a Complex SQL Interview problem | Prac...    21-03-2023     20451       597           80
+1   REAL SQL Interview Problem | Hierarchical data...    14-03-2023     11039       499           47
+2     Complete guide to Database Normalization in SQL    07-03-2023     22967      1218          178
+3   SQL Live class on Lighthall | Learn SQL from B...    26-01-2023     10376       236          149
+4   How to learn SQL for free | Roadmap to learnin...    28-12-2022    232200      7912          316
+..                                                ...           ...       ...       ...          ...
+84  Learn What is Database | Types of Database | DBMS    30-08-2020    167525      3119          111
+85                           Do you need a Smartwatch    12-07-2020     11221       182           46
+86         MacBook Pro 13 2020  One Week Later Review    29-06-2020      1339        70           20
+87                       MacBook Pro 13 2020 Unboxing    22-06-2020      2380        88           29
+88                       MacBook Pro 13 2020 Unboxing    22-06-2020      2380        88           29
+
+[89 rows x 5 columns]
+
+2023-04-27 17:28:27,448 | INFO | root | 
+Displaying Top 10 video's data for Channel: techTFQ
+
+2023-04-27 17:28:27,453 | INFO | root |                                                 Title PublishedDate ViewCount LikeCount CommentCount
+66  Regular Expressions in Python | Regular Expres...    22-04-2021      9783       286           58
+60  Web Scraping in Python using Beautiful Soup | ...    05-07-2021     96897      3387          325
+29          Solving SQL Query | Rows to Column in SQL    18-05-2022     92415      2489          146
+16  Solving SQL Interview Query using a "VERY IMPO...    19-09-2022     86905      2121          165
+53  Connect to PostgreSQL from Python (Using SQL i...    13-09-2021     85570      2179          133
+65  How to Read and Write Files in Python | File H...    05-05-2021      8529       362           32
+14              How to become a Data Analyst FASTER ?    30-09-2022     84589      3573          180
+71  Exception Handling in Python | TRY EXCEPT in P...    04-03-2021      8425       225           11
+55  STEP by STEP guide to Learn Python | How to le...    29-08-2021      8367       435           45
+82  SQL Basics Tutorial for Beginners (Practice SQ...    11-12-2020    749272     16535          539
+2023-04-27 17:28:27,454 | INFO | root | ------------------------
+2023-04-27 17:28:27,455 | INFO | root | File Created for techTFQ
+2023-04-27 17:28:27,455 | INFO | root | ------------------------
+2023-04-27 17:28:31,936 | INFO | root | ------------------------
+2023-04-27 17:28:31,936 | INFO | root | 
+Displaying Video data for Channel: Ken Jee
+
+2023-04-27 17:28:31,936 | INFO | root | ------------------------
+2023-04-27 17:28:31,944 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           This AI question will determine our future    06-04-2023      3404       236           32
+1      I'll Never Code the Same Again... (GPT-4 is OP)    03-04-2023     67715       733           77
+2    Your current portfolio is actually hurting you...    30-03-2023      3237       186            2
+3    Traditional "networking" is stupid. Do THIS in...    27-03-2023      3626       217            3
+4                  you're job searching wrong. #shorts    23-03-2023      2837       167            3
+..                                                 ...           ...       ...       ...          ...
+274          Should You Get A Masters in Data Science?    14-11-2018     20403       304          141
+275  How I Became A Data Scientist From a Business ...    12-11-2018      6339       197           23
+276  Predicting Season Long NBA Wins Using Multiple...    10-07-2018      8465       192           17
+277  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18623       292           41
+278  Predicting Crypto-Currency Price Using RNN lST...    18-11-2017     18623       292           41
+
+[279 rows x 5 columns]
+
+2023-04-27 17:28:31,944 | INFO | root | 
+Displaying Top 10 video's data for Channel: Ken Jee
+
+2023-04-27 17:28:31,949 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+229  Golf: Would You Rather Be the LONGEST or STRAI...    25-11-2019       993        49           12
+37      Data Science Town Hall - State of Data Science    04-08-2022      9896       377           38
+73           Is Spotify Shuffle Really Random? #Shorts    21-07-2021      9883       560           50
+70   Project Presentation - Expectations vs. Realit...    07-08-2021      9846       422           32
+75            Why are APIs Important for Data Science?    09-07-2021      9339       442           95
+119                  Sh*t Data Scientists Say (Parody)    05-10-2020      9327       573          143
+212                         How I Learned Data Science    27-01-2020     93150      2664          210
+100  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+101  Kaggle Project From Scratch - Part 3 (Advanced...    16-01-2021      9247       295           52
+47       What Professional Data Scientists ACTUALLY Do    14-02-2022     90029      3145          185
+2023-04-27 17:28:31,950 | INFO | root | ------------------------
+2023-04-27 17:28:31,952 | INFO | root | File Created for Ken Jee
+2023-04-27 17:28:31,952 | INFO | root | ------------------------
+2023-04-27 17:28:41,759 | INFO | root | ------------------------
+2023-04-27 17:28:41,760 | INFO | root | 
+Displaying Video data for Channel: warikoo
+
+2023-04-27 17:28:41,760 | INFO | root | ------------------------
+2023-04-27 17:28:41,768 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    5 THINGS to do in AUSTRALIA! | Ankur Warikoo #...    27-04-2023      7392       825           12
+1    7 Powerful LIFE LESSONS That'll BLOW Your Mind...    25-04-2023     64317      4468          208
+2    3 SIGNS YOU ARE EMOTIONALLY INTELLIGENT! | Ank...    25-04-2023     46293      4115           52
+3    Watch NOW or REGRET LATER! | 7 LESSONS People ...    22-04-2023    184051     11481          472
+4    3 SIGNS a person TRUSTS YOU! | Ankur Warikoo #...    22-04-2023     38676      3637           47
+..                                                 ...           ...       ...       ...          ...
+900  What is success? | Ankur Warikoo motivation | ...    05-10-2017     11313       477           21
+901  Choosing the right company for job! | Ankur Wa...    05-10-2017     14379       514           14
+902  Is the power of imagination causing you harm? ...    07-09-2017     24554      1039           36
+903  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49392      1926          143
+904  If You Don't Ask, The Answer Is ALWAYS, NO! | ...    07-09-2017     49392      1926          143
+
+[905 rows x 5 columns]
+
+2023-04-27 17:28:41,769 | INFO | root | 
+Displaying Top 10 video's data for Channel: warikoo
+
+2023-04-27 17:28:41,774 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+64   STUDENTS - Use CHATGPT to WIN in your CAREER! ...    11-02-2023    999527     28968         1055
+153  Do you INVEST? You SHOULD know THIS! | Ankur W...    08-11-2022     99649      7054           33
+579  THE BIGGEST Investing mistake you must avoid |...    15-12-2020     99607      5421          354
+776  Who values you the most? | #warikooWednesdays ...    09-10-2019       994        85            4
+361  Ask Me Anything! | YouTube LIVE with Ankur War...    20-01-2022     99262      4602          299
+401  7 TOP Careers for Success in your 20s | Job Ti...    23-12-2021    992605     44846         1420
+518  Truths behind becoming a SUCCESSFUL Entreprene...    06-05-2021     98987      6113          526
+384  Yeh Buy-Now-Pay-Later Kya Hai? W/ Nitin Gupta ...    04-01-2022     98980      3790          257
+374  Psychology of Money Book Review | Ankur Wariko...    11-01-2022    988139     48293         1742
+803  Why? | Friday Nights With Warikoo Episode 12 |...    21-06-2019       987        40            2
+2023-04-27 17:28:41,775 | INFO | root | ------------------------
+2023-04-27 17:28:41,780 | INFO | root | File Created for warikoo
+2023-04-27 17:28:41,780 | INFO | root | ------------------------
+2023-04-27 17:28:43,441 | INFO | root | ------------------------
+2023-04-27 17:28:43,442 | INFO | root | 
+Displaying Video data for Channel: Luke Barousse
+
+2023-04-27 17:28:43,442 | INFO | root | ------------------------
+2023-04-27 17:28:43,448 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Google’s BI vs. Advanced Data Analytics Certif...    13-04-2023     77894      3770          198
+1      Freelance Jobs in Data Science ft.@ShashankData    27-03-2023      8089       633            5
+2                      Gain Experience WITHOUT a Job 🤯    24-03-2023     12399      1090           17
+3                How I find Projects as a Data Analyst    22-03-2023     16723      1405            9
+4                       How I Learn Faster with THIS 😴    20-03-2023      7215       564           14
+..                                                 ...           ...       ...       ...          ...
+132  Create Stacked Bar Chart (and any other visual...    11-09-2020      1935        75            8
+133  Dimensions Vs Measures  (Blue Vs Green Data) -...    09-09-2020      2777       119           10
+134  How To Use Tableau Desktop Controls - Tableau ...    01-09-2020      4005       151           10
+135  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20534       388           28
+136  Connect Google Sheets to Tableau & Joining Dat...    14-08-2020     20534       388           28
+
+[137 rows x 5 columns]
+
+2023-04-27 17:28:43,448 | INFO | root | 
+Displaying Top 10 video's data for Channel: Luke Barousse
+
+2023-04-27 17:28:43,453 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+126  Upload your dashboard to Tableau Public  - Tab...    08-10-2020      9939       163           25
+12          Secrets of a Data Science Hiring Manager 🤫    01-03-2023      9906       696            7
+119  Python Objects frequently used in Data Science...    04-11-2020      9682       386           57
+57        How I use Machine Learning as a Data Analyst    30-08-2022     94658      3351          182
+72   M1 Max/Pro vs M1 Macbook for Data Science.... ...    07-12-2021     94424      2545          263
+88           Standout as a Data Analyst with THIS TOOL    08-05-2021     92056      3360          211
+98                   Day in the life of a data analyst    18-02-2021     91891      2686          383
+10        Is a Data Science Degree really necessary? 🤔    06-03-2023      8819       514            6
+58                    How I use Math as a Data Analyst    10-06-2022     88109      4095          301
+82   Get NOTICED in Data Science!!! (3 types of GRE...    17-08-2021     86244      4799          176
+2023-04-27 17:28:43,453 | INFO | root | ------------------------
+2023-04-27 17:28:43,454 | INFO | root | File Created for Luke Barousse
+2023-04-27 17:28:43,454 | INFO | root | ------------------------
+2023-04-27 17:28:46,145 | INFO | root | ------------------------
+2023-04-27 17:28:46,146 | INFO | root | 
+Displaying Video data for Channel: Alex The Analyst
+
+2023-04-27 17:28:46,146 | INFO | root | ------------------------
+2023-04-27 17:28:46,152 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    Data Analyst Q/A Livestream | April Livestream...    26-04-2023         0        16            0
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9562       394           21
+2        7 Ways to Use ChatGPT for Analytics | Webinar    18-04-2023     17013       677           24
+3    Google Business Intelligence Professional Cert...    18-04-2023     17197       574           53
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90135      2707          297
+..                                                 ...           ...       ...       ...          ...
+206  Working at a Big Company Vs Small Company | To...    25-01-2020     13468       372           20
+207      Data Analyst Salary | 100k with No Experience    23-01-2020     57766      2029          224
+208  Truth About Big Companies | Told by a Fortune ...    21-01-2020      7205       276           17
+209                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+210                  Top 3 Data Analyst Skills in 2020    17-01-2020     26101      1301          138
+
+[211 rows x 5 columns]
+
+2023-04-27 17:28:46,152 | INFO | root | 
+Displaying Top 10 video's data for Channel: Alex The Analyst
+
+2023-04-27 17:28:46,156 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+9    Filtering Columns and Rows in Pandas | Python ...    07-03-2023      9980       252           26
+90       Truth About My Job (Song) - As a Data Analyst    08-11-2021      9612       845          103
+160          Top 10 Coursera Courses for Data Analysts    13-10-2020     95985      4396          274
+1    How to Integrate ChatGPT in Jupyter Notebooks ...    25-04-2023      9562       394           21
+185  SQL Interview Questions and Answers for Beginn...    13-05-2020     95010      2605           97
+139  Solving Medium Level SQL LeetCode Questions | ...    22-12-2020      9400       215           30
+26          Functions in Python | Python for Beginners    06-12-2022      9069       318           19
+131  IBM Data Analyst Professional Certificate by C...    26-01-2021     90191      2551          286
+4    Google Advanced Data Analytics Professional Ce...    10-04-2023     90135      2707          297
+28          For Loops in Python | Python for Beginners    22-11-2022      8919       293           15
+2023-04-27 17:28:46,156 | INFO | root | ------------------------
+2023-04-27 17:28:46,158 | INFO | root | File Created for Alex The Analyst
+2023-04-27 17:28:46,158 | INFO | root | ------------------------
+2023-04-27 17:28:52,626 | INFO | root | ------------------------
+2023-04-27 17:28:52,626 | INFO | root | 
+Displaying Video data for Channel: Akshat Shrivastava
+
+2023-04-27 17:28:52,627 | INFO | root | ------------------------
+2023-04-27 17:28:52,633 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0    The worst is yet to come | Fundamental Analysi...    21-04-2023    309292     10464          798
+1    Discussing my X crore portfolio, which beats M...    17-04-2023    204921      6435          546
+2    These stocks were Multibagger. But, now they a...    15-04-2023    330181     17010          693
+3    You frequently follow these finance rules, but...    13-04-2023    149499      6020          221
+4    A BEAUTIFUL house on India's BEST beach | How ...    11-04-2023    139636      3039          275
+..                                                 ...           ...       ...       ...          ...
+599                 GMAT | everything you need to know    08-01-2021    215825      8778          290
+600  Social Impact Career Paths | Dalberg, World Ba...    10-12-2020     28904      1306           63
+601                      Ace your communication style!    03-12-2020     32847      1615           55
+602  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+603  Can this HEC MBA graduate get into McKinsey/BC...    24-08-2020     20131       481           60
+
+[604 rows x 5 columns]
+
+2023-04-27 17:28:52,634 | INFO | root | 
+Displaying Top 10 video's data for Channel: Akshat Shrivastava
+
+2023-04-27 17:28:52,639 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+393        GREAT buying opportunity in 2 SOLID stocks!    21-11-2021     99630      4887          363
+390               Should you buy, hold or sell stocks?    23-11-2021     99186      4686          732
+241  PayTm, Nykaa, Zomato in NIFTY Next 50! Buy now...    17-03-2022     99063      3043           63
+539  MBA: USA or Europe? | Brand Value | Cost & Sch...    24-06-2021     98977      4340          799
+501               My next 3 FINANCIALLY DUMB decisions    31-07-2021     98817      4887          650
+487  Is Crypto worth anything? #NFT #SMARTCONTRACT ...    16-08-2021     95687      3271          935
+363     LIVE DISCUSSION: Market and Fall - What to do?    17-12-2021     95519      3595          247
+483  Easiest Strategy to Invest in India | Mutual F...    20-08-2021     94126      3956          432
+250                      Job market crash 2022 #shorts    11-03-2022     93958      2777           38
+295          Markets falling (RBI's Monetary Policy) ?    11-02-2022     93479      5356          217
+2023-04-27 17:28:52,639 | INFO | root | ------------------------
+2023-04-27 17:28:52,642 | INFO | root | File Created for Akshat Shrivastava
+2023-04-27 17:28:52,642 | INFO | root | ------------------------
+2023-04-27 17:29:01,813 | INFO | root | ------------------------
+2023-04-27 17:29:01,813 | INFO | root | 
+Displaying Video data for Channel: TechWiser
+
+2023-04-27 17:29:01,813 | INFO | root | ------------------------
+2023-04-27 17:29:01,819 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+0           We Tested Best Camera Phone *Vivo X90 Pro*    26-04-2023     39715      2680          210
+1                 How Jio Is Killing Netflix, Hotstar!    25-04-2023    159597     16355          869
+2           Every City Should have this Electric Bike!    22-04-2023    928596     66377          550
+3                 Best Smartphone under 25000 in India    21-04-2023    155317      8124          771
+4             5 Crazy Tech That We Saw in South Korea!    19-04-2023     58025      4745          207
+..                                                 ...           ...       ...       ...          ...
+816  Ubuntu 12.04 : Java applet not working with op...    21-06-2013      4109        10            0
+817  Bsnl broadband connection -Setup configure and...    19-06-2013    232114       738          129
+818  How to Install Compile and Run java programs i...    20-05-2013    104328       470           46
+819  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6678       153           45
+820  Demo Project : Control your Pc mouse with eyes...    04-03-2013      6678       153           45
+
+[821 rows x 5 columns]
+
+2023-04-27 17:29:01,819 | INFO | root | 
+Displaying Top 10 video's data for Channel: TechWiser
+
+2023-04-27 17:29:01,823 | INFO | root |                                                  Title PublishedDate ViewCount LikeCount CommentCount
+276       OnePlus 10 Pro - Things No One Talked About!    08-04-2022     99719      4494          426
+646  Amazon Fire TV Stick 4k: Is it Worth the Upgrade?    21-11-2018     99602      1025          185
+150            3 Apps to make Windows more productive!    27-09-2022    992340    106575          455
+410  Oppo Enco Buds at Rs 1,499 | Flipkart Big Bill...    11-09-2021     99090      4356          363
+148              Best Upcoming Phones You Should Know!    30-09-2022     99061      7521          268
+243     This OnePlus Phone Could be Game Changer But..    28-05-2022     99035      7443          381
+299  iQOO 9 SE - Is This the Best Midrange Smartpho...    05-03-2022     98059      4727          390
+404        Should You Buy the iPhone 13?? -  SNL EP#38    18-09-2021      9779       637           18
+395  Best Deals  - Amazon Great Indian Festival and...    01-10-2021     97781      4203          355
+405  Xiaomi Mi TV 5X vs Realme Smart TV 4k - *Best ...    18-09-2021     97572      3607          313
+2023-04-27 17:29:01,823 | INFO | root | ------------------------
+2023-04-27 17:29:01,827 | INFO | root | File Created for TechWiser
+2023-04-27 17:29:01,827 | INFO | root | ------------------------
