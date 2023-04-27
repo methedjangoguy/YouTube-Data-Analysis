@@ -97,7 +97,7 @@ Install required packages
   $ pip install -r requirements.txt
 ```
 
-Start the server
+Run the Application
 
 ```bash
   python main.py
