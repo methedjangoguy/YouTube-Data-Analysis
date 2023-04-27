@@ -82,7 +82,7 @@ We just need one particular library to be installed that is google api python cl
 Clone the project
 
 ```bash
-  $ git clone https://link-to-project
+  $ git clone https://github.com/methedjangoguy/YouTube-Data-Analysis.git
 ```
 
 Go to the project directory
