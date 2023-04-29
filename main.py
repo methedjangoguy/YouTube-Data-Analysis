@@ -31,7 +31,7 @@ def main():
             top10videos = ytvideodata.sort_values(by='ViewCount', ascending=False).head(10)
             _root_logger.info(f'{top10videos}')
             _root_logger.info(f'------------------------')
-            ytvideodata.to_csv(f"{resultPath}VideoDetailsOf_{channelName}", index=False)
+            ytvideodata.to_csv(f"{resultPath}VideoDetailsOf_{channelName}.csv", index=False)
             _root_logger.info(f'File Created for {channelName}')
             _root_logger.info(f'------------------------')
         except Exception as e:
