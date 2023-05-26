@@ -6,7 +6,7 @@ import pandas as pd
 _root_logger = log.setup_custom_logger("root")
 _yt_logger_ = log.setup_custom_logger("youtube")
 
-# Main Function
+# Main Function: point of execution
 def main():
     resultPath = configuration.get_property("resultPath")
     channelIDList = configuration.get_property("channelIDList")
